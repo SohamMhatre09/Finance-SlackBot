@@ -1,131 +1,88 @@
-# Slack Bot with Gemini and Azure Integration
+# AI-Powered Slack Bot
 
-This project integrates a Slack bot with the Gemini API and Azure services to provide intelligent responses and document processing. The bot can process PDFs from a knowledge base, respond to user queries, and interact with Slack channels. Follow the steps below to set up and run the application.
-
----
-
-## Table of Contents
-
-1. [Prerequisites](#prerequisites)
-2. [Setup Instructions](#setup-instructions)
-   - [Install Dependencies](#1-install-dependencies)
-   - [Configure Environment Variables](#2-configure-environment-variables)
-   - [Add PDFs to Knowledge Base](#3-add-pdfs-to-knowledge-base)
-   - [Run the Application](#4-run-the-application)
-   - [Configure Slack App](#5-configure-slack-app)
-3. [Running the Bot](#running-the-bot)
-4. [Folder Structure](#folder-structure)
-5. [Notes](#notes)
-
----
+A Slack bot that leverages Gemini AI and Azure services to process PDFs and respond to queries based on your knowledge base.
 
 ## Prerequisites
 
-Before starting, ensure you have the following:
+- Python 3.8+
+- Slack Workspace Admin access
+- Google Cloud (Gemini API) account
+- Azure account
+- ngrok
 
-1. **Python 3.8+**: Install Python from [python.org](https://www.python.org/).
-2. **Ngrok**: Required for exposing your local server to the internet. Download it from [ngrok.com](https://ngrok.com/).
-3. **Slack App**: A registered Slack app with the necessary permissions.
-4. **API Keys**:
-   - Gemini API key (from [Gemini](https://gemini.com/)).
-   - Azure endpoint and key (from [Azure Portal](https://portal.azure.com/)).
+## Installation
 
----
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd <repository-name>
+```
 
-## Setup Instructions
-
-### 1. Install Dependencies
-
-Install the required Python packages by running:
-
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-2. Configure Environment Variables
-Create a .env file in the root directory and add the following variables:
+```
 
-plaintext
-Copy
+3. Create and configure `.env` file in the root directory:
+```plaintext
 SLACK_BOT_TOKEN=your_slack_bot_token
 SLACK_SIGNING_SECRET=your_slack_signing_secret
 GEMINI_API_KEY=your_gemini_api_key
 AZURE_ENDPOINT=your_azure_endpoint
 AZURE_KEY=your_azure_key
-Replace the placeholders with your actual credentials.
+```
 
-3. Add PDFs to Knowledge Base
-Place your PDF files in the /KnowledgeBase folder. These files will be processed by the application to extract relevant information.
+## Setup Knowledge Base
 
-4. Run the Application
-Extract Data from PDFs:
-Run the extractor.py script to process the PDFs in the /KnowledgeBase folder:
-
-bash
-Copy
+1. Create a `/KnowledgeBase` folder in the root directory if it doesn't exist
+2. Add your PDF files to the `/KnowledgeBase` folder
+3. Run the extractor to process PDFs:
+```bash
 python extractor.py
-Start the Flask App:
-Run the Flask application:
+```
 
-bash
-Copy
+## Running the Application
+
+1. Start the Flask application:
+```bash
 python flask-app.py
-Expose the App with Ngrok:
-Use Ngrok to forward the local server to a public URL:
+```
 
-bash
-Copy
+2. Start ngrok to create a public URL:
+```bash
 ngrok http 3000
-Copy the forwarding URL provided by Ngrok (e.g., https://<ngrok-url>).
+```
 
-5. Configure Slack App
-Register a Slack App:
+## Slack Integration Setup
 
-Go to the Slack API website.
+1. Go to [Slack API](https://api.slack.com/apps) and create a new app
+2. Under "OAuth & Permissions", add the following scopes:
+   - `chat:write`
+   - `app_mentions:read`
+   - `channels:history`
+   - `groups:history`
 
-Click "Create New App" and choose "From scratch."
+3. Install the app to your workspace and copy the Bot User OAuth Token
 
-Name your app and select the workspace where it will be installed.
+4. Enable Event Subscriptions:
+   - Toggle "Enable Events" to On
+   - In the Request URL field, enter your ngrok URL followed by `/slack/events`
+   - Example: `https://your-ngrok-url.ngrok.io/slack/events`
+   - Subscribe to the `app_mention` event
 
-Configure Permissions:
+5. Update your `.env` file with the Slack credentials:
+   - Add your Bot User OAuth Token as `SLACK_BOT_TOKEN`
+   - Add your Signing Secret as `SLACK_SIGNING_SECRET`
 
-Under "OAuth & Permissions," add the following scopes:
+## Usage
 
-chat:write (to send messages as the bot).
+1. Invite the bot to your desired Slack channel
+2. Mention the bot using @ followed by your query
+3. The bot will process your query using the knowledge base and respond accordingly
 
-app_mentions:read (to listen for messages where the bot is mentioned).
+## Troubleshooting
 
-channels:history or groups:history (to read messages in channels or groups).
-
-Install the app to your workspace and note the Bot User OAuth Token.
-
-Set Up Event Subscriptions:
-
-Enable "Event Subscriptions" and provide the Request URL:
-
-Copy
-https://<ngrok-url>/slack/events
-Subscribe to the app_mention event so the bot can respond when mentioned.
-
-Install Slack SDK:
-
-Use the slack_bolt Python SDK to simplify Slack app development.
-
-Running the Bot
-Start the Flask app and Ngrok as described above.
-
-Mention the bot in your Slack workspace to interact with it.
-
-Folder Structure
-Copy
-.
-├── .env                  # Environment variables
-├── KnowledgeBase/        # Folder for PDF files
-├── extractor.py          # Script to process PDFs
-├── flask-app.py          # Flask application
-├── requirements.txt      # Python dependencies
-└── README.md             # This file
-Notes
-Ensure your Ngrok URL is updated in the Slack app settings whenever you restart Ngrok.
-
-Replace placeholders in the .env file with your actual API keys and tokens.
-
-For local development, keep the Flask app and Ngrok running simultaneously.
+- Ensure all environment variables are correctly set in `.env`
+- Verify ngrok is running and the URL is properly configured in Slack
+- Check the application logs for any error messages
+- Make sure PDFs are properly processed in the Knowledge Base folder
