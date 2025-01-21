@@ -4,7 +4,7 @@ A Slack bot that leverages Gemini AI and Azure services to process PDFs and resp
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11.9
 - Slack Workspace Admin access
 - Google Cloud (Gemini API) account
 - Azure account
@@ -14,8 +14,8 @@ A Slack bot that leverages Gemini AI and Azure services to process PDFs and resp
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/SohamMhatre09/Finance-SlackBot
+cd Finance-SlackBot
 ```
 
 2. Install dependencies:
@@ -32,7 +32,7 @@ AZURE_ENDPOINT=your_azure_endpoint
 AZURE_KEY=your_azure_key
 ```
 
-## Setup Knowledge Base
+## Setup nowledge Base
 
 1. Create a `/KnowledgeBase` folder in the root directory if it doesn't exist
 2. Add your PDF files to the `/KnowledgeBase` folder
