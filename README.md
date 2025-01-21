@@ -7,7 +7,7 @@ A Slack bot that leverages Gemini AI and Azure services to process PDFs and resp
 - Python 3.11.9
 - Slack Workspace Admin access
 - Google Cloud (Gemini API) account
-- Azure Document Intelligence account
+- Azure Document Intelligence Intstance
 - ngrok
 
 ## Installation
