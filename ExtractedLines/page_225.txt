@@ -1,0 +1,106 @@
+Schedules to the Financial Statements
+As at March 31, 2022
+SCHEDULE 11 - OTHER ASSETS
+₹ in '000
+As at
+March 31, 2022
+As at
+March 31, 2021
+I
+Interest accrued
+134,467,710
+118,762,922
+II
+Advance tax / tax deducted at source (net of provisions)
+42,693,607
+36,071,347
+III
+Stationery and stamps
+420,769
+434,856
+IV
+Non banking assets acquired in satisfaction of claims
+512,211
+512,557
+V
+Bond and share application money pending allotment
+-
+225,000
+VI Security deposit for commercial and residential property
+5,687,636
+5,483,331
+VII Others*
+673,896,347
+297,768,868
+Total
+857,678,280
+459,258,881
+*Includes deferred tax asset (net) of ₹ 6,229.67 crore (previous year: ₹ 4,937.76 crore) and deposits placed with NABARD / SIDBI / NHB on account
+of shortfall in lending to priority sector of ₹ 44,738.08 crore (previous year: ₹ 9,320.37 crore)
+SCHEDULE 12 - CONTINGENT LIABILITIES
+₹ in '000
+As at
+March 31, 2022
+As at
+March 31, 2021
+I
+Claims against the bank not acknowledged as debts - taxation
+12,931,485
+12,677,596
+II
+Claims against the bank not acknowledged as debts - others
+1,311,797
+2,275,100
+III
+Liability for partly paid investments
+-
+-
+IV
+Liability on account of outstanding forward exchange contracts
+6,551,871,752
+4,964,726,675
+V
+Liability on account of outstanding derivative contracts
+5,897,615,819
+3,577,046,284
+VI
+Guarantees given on behalf of constituents - in India
+833,910,325
+751,195,338
+- outside India
+3,524,321
+1,800,917
+VII Acceptances, endorsements and other obligations
+615,639,684
+376,536,252
+VIII Other items for which the bank is contingently liable
+37,617,812
+24,717,799
+Total
+13,954,422,995
+9,710,975,961
+SCHEDULE 13 - INTEREST EARNED
+₹ in '000
+Year ended
+March 31, 2022
+Year ended
+March 31, 2021
+I
+Interest / discount on advances / bills
+985,120,227
+948,345,362
+II
+Income from investments
+260,461,338
+232,142,691
+III
+Interest on balance with RBI and other inter-bank funds
+25,523,700
+23,412,507
+IV Others
+6,425,926
+4,681,705
+Total
+1,277,531,191
+1,208,582,265
+228

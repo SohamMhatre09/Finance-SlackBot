@@ -1,0 +1,116 @@
+Schedules to the Consolidated Financial Statements
+For the year ended March 31, 2022
+Method used for accounting for shared based payment plan
+The company uses fair value to account for the compensation cost of stock options to employees of the company.
+Activity in the options outstanding under the Employee Stock Options Plan
+· Activity in the options outstanding under the various employee stock option plans as at March 31, 2022:
+Particulars
+Company
+options
+Weighted average
+exercise price (₹)
+Options outstanding, beginning of the year
+2,28,650
+5,237
+Granted during the year
+1,10,500
+6,858
+Exercised during the year
+62,400
+5,017
+Forfeited / Lapsed during the year
+23,250
+5,445
+Options outstanding, end of the year
+2,53,500
+5,979
+Options exercisable
+3,500
+5,344
+· Activity in the options outstanding under the various employee stock option plans as at March 31, 2021:
+Particulars
+Company
+options
+Weighted average
+exercise price (₹)
+Options outstanding, beginning of the year
+1,10,000
+4,254
+Granted during the year
+1,67,500
+5,458
+Exercised during the year
+36,600
+3,375
+Forfeited / Lapsed during the year
+12,250
+4,994
+Options outstanding, end of the year
+2,28,650
+5,237
+Options exercisable
+3,950
+2,028
+· The following table summarises the information about stock options outstanding as at March 31, 2022:
+Plan
+Range of exercise
+price (₹)
+Number of
+shares arising
+out of options
+Weighted average
+remaining contractual
+life of options (in
+years)
+Weighted average
+exercise price (₹)
+Company Options
+1,136 - 8,051
+2,53,500
+6.62
+5,979
+· The following table summarises the information about stock options outstanding as at March 31, 2021:
+Plan
+Range of exercise
+price (₹)
+Number of
+shares arising
+out of options
+Weighted average
+remaining contractual
+life of options
+(in years)
+Weighted average
+exercise price (₹)
+Company Options
+1,136 - 5,458
+2,28,650
+6.70
+5,237
+Fair value methodology
+The fair value of options used to compute proforma net income and earnings per equity share have been estimated on dates
+of each grant using the Black-Scholes model. The shares of the Company are not listed on any stock exchange. Accordingly,
+the Company has considered the volatility of the Company's stock price as an average of the historical volatility of similar listed
+enterprises for the purpose of calculating the fair value to reduce any Company specific variations. The various assumptions
+considered in the pricing model for the stock options granted by the Company.
+Particulars
+March 31, 2022
+March 31, 2021
+Dividend yield
+4.91%
+2.28%
+Expected volatility
+45.00%
+45.00%
+Risk-free interest rate
+5.22% to 6.24%
+4.47% to 5.64%
+Expected life of the options
+3 to 6 years
+3 to 6 years
+HDB Financial Services Limited
+In accordance with resolution approved by the shareholders, the Company has reserved shares, for issue to employees
+through ESOP scheme. On the approval of Nomination and Remuneration Committee (NRC), each ESOP scheme is issued.
+The NRC has approved stock option schemes ESOP-10 on October 13, 2017, ESOP-11 on January 15, 2019, ESOP-12 on
+October 5, 2020, ESOP-13 on January 14, 2021, ESOP-13A on August 31, 2021 and ESOP-14 on October 27, 2021. Under
+336

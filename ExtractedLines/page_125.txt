@@ -1,0 +1,129 @@
+GRI Index
+GRI Standard
+Disclosure
+Description
+Page Number(s) and/or
+URL(s)/Section
+Procurement
+Practices
+103-1
+Explanation of the material topic and its Boundary
+80-93
+103-2
+The management approach and its components
+80-93
+103-3
+Evaluation of the management approach
+80-93
+204-1
+Proportion of spending on local suppliers
+Anti-
+corruption
+103-1
+Explanation of the material topic and its Boundary
+112-115
+103-2
+The management approach and its components
+112-115
+103-3
+Evaluation of the management approach
+112-115
+205-1
+Operations assessed for risks related to corruption
+112-115
+205-2
+Communication and training about anti-corruption policies and procedures
+112-115
+205-3
+Confirmed incidents of corruption and actions taken
+112-115
+Anti-
+competitive
+Behavior
+103-1
+Explanation of the material topic and its Boundary
+112-115
+103-2
+The management approach and its components
+112-115
+103-3
+Evaluation of the management approach
+112-115
+206-1
+Legal actions for anti-competitive behavior, anti-trust, and monopoly practices
+420
+GRI 300: ENVIRONMENT
+Energy
+103-1
+Explanation of the material topic and its Boundary
+62-64
+103-2
+The management approach and its components
+62-64
+103-3
+Evaluation of the management approach
+62-64
+302-1
+Energy consumption within the organization
+62-64
+302-2
+Energy consumption outside of the organization
+62-64
+302-3
+Energy intensity
+62-64
+302-4
+Reduction of energy consumption
+62-64
+302-5
+Reductions in energy requirements of products and services
+62-64
+Emissions
+103-1
+Explanation of the material topic and its Boundary
+58-62
+103-2
+The management approach and its components
+58-62
+103-3
+Evaluation of the management approach
+58-62
+305-1
+Direct (Scope 1) GHG emissions
+58-62
+305-2
+Energy indirect (Scope 2) GHG emissions
+58-62
+305-3
+Other indirect (Scope 3) GHG emissions
+58-62
+305-4
+GHG emissions intensity
+58-62
+305-5
+Reduction of GHG emissions
+58-62
+Effluents
+and waste
+103-1
+Explanation of the material topic and its Boundary
+62-64
+103-2
+The management approach and its components
+62-64
+103-3
+Evaluation of the management approach
+62-64
+306-1
+Waste generation and significant waste-related impacts
+62-64
+306-2
+Management of significant waste-related impacts
+62-64
+306-3
+Waste generated
+62-64
+306-5
+Waste directed to disposal
+62-64
+128

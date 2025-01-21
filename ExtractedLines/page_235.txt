@@ -1,0 +1,53 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+SCHEDULE 18 - Notes forming part of the financial statements for the year ended March 31, 2022
+Amounts in notes forming part of the financial statements for the year ended March 31, 2022 are denominated in rupee crore to
+conform to extant RBI guidelines, except where stated otherwise.
+1. Dividend
+The Reserve Bank of India (RBI), vide its notification dated April 22, 2021 mentioned that banks may pay dividend on equity
+shares from the profits for the financial year ended March 31, 2021, subject to the quantum of dividend being not more than
+fifty per cent of the amount determined as per the dividend payout ratio prescribed by RBI. Accordingly, the Bank has paid
+dividend of ₹ 6.50 per equity share of ₹ 1/- each aggregating to ₹ 3,592.40 crore, for the financial year ended March 31, 2021.
+2. Proposed scheme of amalgamation
+The Board of Directors at its meeting held on April 04, 2022, approved a composite Scheme of amalgamation ("Scheme"),
+for the amalgamation of: (i) HDFC Investments Limited and HDFC Holdings Limited, into and with Housing Development
+Finance Corporation Limited ("HDFC Limited"); and thereafter (ii) HDFC Limited into HDFC Bank Limited, and their respective
+shareholders and creditors, under Sections 230 to 232 of the Companies Act, 2013 and other applicable laws including the
+rules and regulations. The share exchange ratio shall be 42 equity shares of face value of ₹ 1/- each of the Bank for every 25
+equity shares of face value of ₹ 2/- each of HDFC Limited. The Scheme is subject to the receipt of requisite approvals from
+statutory and regulatory authorities, and the respective shareholders and creditors, under applicable law.
+As per the scheme, the appointed date for the amalgamation of HDFC Limited with and into the Bank shall be the effective
+date of the scheme. Upon the scheme becoming effective, the Bank will issue equity shares to the shareholders of HDFC
+Limited as on the record date. The equity shares held by HDFC Limited in the Bank will be extinguished as per the scheme.
+3. Change in accounting policy
+The RBI, vide its clarification dated August 30, 2021 on Guidelines on Compensation of Whole Time Directors / Chief Executive
+Officers / Material Risk Takers and Control Function Staff, advised Banks that the fair value of share-linked instruments on the
+date of grant should be recognised as an expense for all instruments granted after the accounting period ending March 31,
+2021. Accordingly, the Bank has changed its accounting policy from the intrinsic value method to the fair value method for all
+employee stock options granted after March 31, 2021. The fair value is estimated on the date of grant using Black-Scholes
+model and is recognised as compensation expense over the vesting period. As a result, 'Employees cost' for the year ended
+March 31, 2022 is higher by ₹ 325.97 crore with a consequent reduction in profit after tax by the said amount.
+4. Capital adequacy
+The Bank's capital to risk-weighted assets ratio ('Capital Adequacy Ratio') is calculated in accordance with the RBI guidelines
+on Basel III capital regulations ('Basel III'). The phasing in of the minimum capital ratio requirement under Basel III is as follows:
+(% of RWAs)
+Minimum ratio of capital to risk-weighted assets
+As at March 31,
+2020
+2021
+2022
+Common Equity Tier 1 (CET 1)
+7.575
+7.575
+8.200
+Tier 1 capital
+9.075
+9.075
+9.700
+Total capital
+11.075
+11.075
+11.700
+The above minimum CET 1, Tier 1 and total capital ratio requirements include Capital Conservation Buffer (CCB) and additional
+capital applicable to our Bank being Domestic-Systemically Important Bank (D-SIB).
+238

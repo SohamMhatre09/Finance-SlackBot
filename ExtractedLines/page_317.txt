@@ -1,0 +1,97 @@
+Schedules to the Consolidated Financial Statements
+As at March 31, 2022
+The audited financial statements of the subsidiary
+companies, entity controlled by the Bank have been drawn
+up to the same reporting date as that of the Bank, i.e.
+March 31, 2022.
+D
+PRINCIPAL ACCOUNTING POLICIES
+1
+Investments
+HDFC Bank Limited
+Classification:
+In accordance with the RBI guidelines, investments are
+classified on the date of purchase into "Held for Trading"
+('HFT'), "Available for Sale" ('AFS') and "Held to Maturity"
+('HTM') categories (hereinafter called "categories").
+Subsequent shifting amongst the categories is done
+in accordance with the RBI guidelines. Under each of
+these categories, investments are further classified under
+six groups (hereinafter called "groups") - Government
+Securities, Other Approved Securities, Shares, Debentures
+and Bonds, Investments in Subsidiaries / Joint Ventures
+and Other Investments.
+Purchase and sale transactions in securities are accounted
+on settlement date except in the case of equity shares
+which are accounted on trade date.
+Basis of classification:
+Investments that are held for resale within 90 days from
+the date of purchase are classified under HFT category.
+Investments which the Bank intends to hold till maturity are
+classified under HTM category. Investments in the equity
+of subsidiaries / joint ventures are categorised as HTM.
+Investments which are not classified in either of the above
+categories are classified under AFS category.
+Acquisition cost:
+Brokerage, commission, etc. and broken period interest
+on debt instruments are recognised in the Profit and Loss
+Account and are not included in the cost of acquisition.
+Disposal of investments:
+Profit / Loss on sale of investments under the aforesaid
+three categories is recognised in the Profit and Loss
+Account. Cost of investments is based on the weighted
+average cost method. The profit from sale of investment
+under HTM category, net of taxes and transfer to statutory
+reserve is appropriated from the Profit and Loss Account
+to "Capital Reserve".
+Short sale:
+The Bank undertakes short sale transactions in Central
+Government dated securities. The short position is
+categorised under HFT category and netted off from
+investments. The short position is marked to market and
+loss, if any, is charged to the Profit and Loss Account
+while gain, if any, is ignored. Profit / Loss on short sale is
+recognised on settlement date.
+Valuation:
+Investments classified under AFS and HFT categories
+are marked to market individually and depreciation
+/ appreciation is aggregated for each group and net
+depreciation in each group is provided and net appreciation
+is ignored.
+Traded investments are valued based on the trades /
+quotes on the recognised stock exchanges or prices
+published by Financial Benchmarks India Pvt Ltd.
+(FBIL) with Fixed Income Money Market and Derivatives
+Association (FIMMDA) as the calculating agent. Investments
+denominated in foreign currencies are valued based on the
+prices provided by market information providers such as
+Bloomberg, Refinitiv, etc.
+The market value of unquoted government of India securities,
+state government securities and special bonds such as oil
+bonds, fertilizer bonds etc. issued by the government of
+India, is computed as per the prices published by FBIL with
+FIMMDA as the calculating agent.
+The valuation of other unquoted fixed income securities (viz.
+other approved securities and bonds and debentures), and
+preference shares, is done with appropriate mark-up, i.e.
+applicable FIMMDA published credit spread over the Yield
+to Maturity (YTM) rates for government of India securities as
+published by FBIL with FIMMDA as the calculating agent.
+Unquoted equity shares are valued at the break-up
+value, if the latest Balance Sheet is available or at ₹ 1 for
+each company.
+Units of mutual funds are valued at the latest net asset value
+declared by the respective schemes of the mutual fund.
+Treasury bills, commercial papers and certificate of deposits
+being discounted instruments, are valued at carrying cost.
+Investments in Security receipts (SR) and unquoted
+units of Infrastructure Investment Trust (InvIT) are valued
+as per the net asset value provided by the issuing Asset
+Reconstruction Company and InvIT trust respectively.
+Investments in unquoted Venture Capital Fund (VCF) are
+categorised, at the discretion of the Bank, under HTM
+category for an initial period of three years and valued at
+cost during this period. Such investments are transferred
+to the AFS category after the said period of three years.
+Investments in AFS category are valued at NAV shown by
+320

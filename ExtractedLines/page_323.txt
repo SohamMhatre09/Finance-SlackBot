@@ -1,0 +1,100 @@
+Schedules to the Consolidated Financial Statements
+As at March 31, 2022
+forex deals. Valuation is considered on present value basis.
+For this purpose, the forward profit or loss on the deals
+are discounted till the valuation date using the discounting
+yields. The resulting profit or loss on valuation is recognised
+in the Profit and Loss Account. Foreign exchange contracts
+are classified as assets when the fair value is positive
+(positive marked to market value) or as liabilities when the
+fair value is negative (negative marked to market value).
+Foreign exchange forward contracts not intended for
+trading, that are entered into to establish the amount of
+reporting currency required or available at the settlement
+date of a transaction and are outstanding at the Balance
+Sheet date, are effectively valued at the closing spot rate.
+The premium or discount arising at the inception of such
+forward exchange contract is amortised as expense or
+income over the life of the contract.
+The Bank recognises all derivative contracts at fair value, on
+the date on which the derivative contracts are entered into
+and are re-measured at fair value as at the Balance Sheet
+date. Derivatives are classified as assets when the fair value
+is positive (positive marked to market value) or as liabilities
+when the fair value is negative (negative marked to market
+value).
+The Bank as part of its risk management strategy, makes
+use of financial derivative instruments, including foreign
+exchange forward contracts, for hedging the risk embedded
+in some of its financial assets or liabilities recognised on the
+balance sheet. The Bank identifies the hedged item (asset
+or liability) at the inception of the transaction itself. Hedge
+effectiveness is ascertained at the time of the inception of
+the hedge and at the reporting date thereafter.
+In case of a fair value hedge, the changes in the fair value of
+the hedging instruments and hedged items are recognised
+in the Profit and Loss Account and in case of cash flow
+hedges, the changes in fair value of effective portion are
+recognised in Reserves and Surplus under 'Cash flow
+hedge reserve' and ineffective portion of an effective
+hedging relationship, if any, is recognised in the Profit
+and Loss Account. The accumulated balance in the cash
+flow hedge reserve, in an effective hedging relationship, is
+recycled in the Profit and Loss Account at the same time
+that the impact from the hedged item is recognised in the
+Profit and Loss Account.
+HDB Financial Services Limited
+Derivative contracts are designated as cash flow hedges,
+the hedging instrument is measured at fair value and any
+gain or loss that is determined to be an effective hedge is
+recognised within equity i.e., Cash flow Hedge Reserve.
+Amounts recognised in equity are transferred to the Profit
+and Loss Account in the same period as the cash flows of
+hedged items affect the Profit and Loss Account. When a
+derivative contract expires or is sold or if a hedge no longer
+meets the criteria for hedge accounting, any cumulative
+profit or loss in the Cash Flow Hedge Reserve is retained
+in equity until the hedged cash flow is recognised in the
+Profit and Loss Account. However, if hedged cash flows
+are no longer expected to occur, the profit or loss against
+the corresponding derivative contract, accumulated in the
+Cash Flow Hedge Reserve, is immediately released through
+the Profit and Loss Account. Changes in the fair values
+of derivative instruments that do not qualify for hedge
+accounting are recognised immediately in the Profit and
+Loss Account.
+8
+Revenue recognition
+HDFC Bank Limited
+· Interest income is recognised in the Profit and Loss
+Account on an accrual basis, except in the case of non-
+performing assets and overdue interest on retail EMI
+based performing advances, which are recognised
+when realised. In case of domestic advances, where
+interest is collected on rear end basis, such interest
+is accounted on receipt basis in accordance with the
+RBI communication.
+· Interest income on investments in PTCs and loans
+bought out through the direct assignment route is
+recognised at their effective interest rate.
+· Income on non-coupon bearing discounted
+instruments is recognised over the tenor of the
+instrument on a constant yield basis.
+· Loan processing fee is recognised as income when
+due. Syndication / Arranger fee is recognised as
+income when a significant act / milestone is completed.
+· Gain / loss on sell down of loans is recognised in line
+with the extant RBI guidelines.
+· Dividend on equity shares, preference shares and on
+mutual fund units is recognised as income when the
+right to receive the dividend is established.
+· Guarantee commission, commission on letter of credit,
+annual locker rent fees and annual fees for credit cards
+are recognised on a straight-line basis over the period
+of contract. Other fees and commission income are
+recognised when due, where the Bank is reasonably
+certain of ultimate collection.
+· Fees paid / received for priority sector lending
+certificates (PSLC) is recognised on straight-line basis
+over the period of the certificate.
+326

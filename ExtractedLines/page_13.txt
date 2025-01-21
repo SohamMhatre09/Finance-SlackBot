@@ -1,0 +1,93 @@
+Message from the MD & CEO
+to have in-house foundational technology capabilities to
+compete with neo-techs. Toward this, the Bank has started
+two very strategic initiatives:
+A. 'Hollow the Core' Strategy - The Bank, in partnership
+with a new age start-up (with deep experience in
+core banking technology), is co-creating new core
+banking modules. This project will enable the moving
+out of payments module from existing core banking
+platform and help in creating a fully resilient active-
+active payments architecture that will ensure minimal
+payments downtime, even if core banking is not
+available. This 15-month project will be followed by
+hollowing the customer master modules from its
+existing core systems and will ensure a single system of
+record for customers across various products.
+B.
+Rewrite Mobile and NetBanking Applications - The
+Bank has set up a new centre in Bengaluru and the
+team here is re-writing the Mobile and NetBanking
+platforms. The entire project will be completed in a
+2-year time frame and will allow the Bank to own a
+modern cloud enabled Mobile/NetBanking platform.
+Enabling a new age experience for customers, we will
+roll out new features every 3 to 4 weeks, in line with
+digital fintech companies.
+To summarise, our entire technology and digital strategy
+adopts a 360-degree approach that ensures resilience and
+modernisation of existing legacy systems and enables new
+age consumer experiences by partnering with modern neo-
+techs. We have made rapid strides in creating the foundation
+and enabling new digital assets over the last one year.
+Needless to say, the pace will only pick up from here. Firmly
+committed to this transformation, the Bank will continue to
+invest in modern technology and talent.
+Customer Centricity
+Customer focus has been a core value for years and
+maintaining the highest possible standards in customer
+service has been the key to our success.
+We are institutionalising a Service First culture at the Bank.
+Service First for us means respecting every customer and
+addressing their enquiries or complaints on time/every
+time, and working on the issues raised for a permanent fix.
+Service First for us is a commitment right from me and my
+colleagues to put a smile on our customers' faces.
+We have a two-pronged approach to achieve this. First, a
+culture of evangelisation right from the top and sensitising
+all our colleagues to be at the forefront of solving customer
+issues. Second, a strong measurement metric to be in place
+to continuously know that we are progressing in the right
+direction.
+We have invested in tools and technology to ensure that
+some of the issues that customers face do not arise at all.
+For example, our MobileBanking app has been upgraded
+with wrapper technology that prevents fraudsters from
+reading OTPs, thereby preventing frauds and related
+complaints.
+A strong bottom-up Net Promoter System (NPS) programme
+('Infinite Smiles') covers customer interactions across all
+products/services and delivery channels. We actively poll
+our customers after their interactions with the Bank (>63
+Million customers polled during the financial year), listen
+to their feedback, and engage with them if we have not
+been up to the mark. I am happy to state that we lead the
+overall NPS ranking among 20+ competitors in the banking
+category, based on a competitive benchmarking study
+of NPS, which was done by an industry-leading
+consultancy firm.
+Our performance on complaints resolution has also
+improved markedly during the year with significantly reduced
+customer complaints in the Credit Cards, Debit Cards,
+Operations and Collections front (complaints reduced by
+21%). We are not complacent about the progress and are
+being conscious and mindful of much more that needs
+to improve. We are working on several strategic initiatives
+(like the wrapper technology I mentioned earlier) to tackle
+complaints pertaining to 'Disputed Transactions' (where the
+customer succumbs to phishing attacks by fraudsters).
+As part of our technology transformation agenda, we are
+also investing in an omni-channel customer experience
+platform. This will enable our customers to reach out to us
+through their preferred channel for service i.e., social, email,
+texts, voice, etc. It would also provide us a single source of
+customer truth across channels and would enable our front-
+line staff to solve customer queries and act on customer
+instructions in a straight through manner. This capability
+will improve our customer responsiveness and NPS. We
+are already live with our social media and email interactions
+on this platform and will add other channels of customer
+interactions during the course of this year.
+Customer delight is a non-negotiable goal towards which we
+will continue to work.
+12

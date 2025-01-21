@@ -1,0 +1,10 @@
+Nature,Nos.,Notional principal,Benchmark,Terms
+Trading,2,600.00,INCMT,Floating receivable v/s fixed payable
+Trading,"3,609","220,044.98",OIS,Fixed receivable v/s floating payable
+Trading,"4,041","222,466.69",OIS,Floating receivable v/s fixed payable
+Trading,2,"1,000.00",MIOIS,Floating receivable v/s fixed payable
+Trading,425,"28,418.85",MIFOR,Fixed receivable v/s floating payable
+Trading,99,"5,209.83",MIFOR,Floating receivable v/s fixed payable
+Trading,27,"2,040.00",MOD MIFOR,Fixed receivable v/s floating payable
+Trading,18,995.00,MOD MIFOR,Floating receivable v/s fixed payable
+Total,,"480,775.35",,

@@ -1,0 +1,100 @@
+Schedules to the Financial Statements
+As at March 31, 2022
+present value basis. For this purpose, the forward profit
+or loss on the deals are discounted till the valuation date
+using the discounting yields. The resulting profit or loss
+on valuation is recognised in the Profit and Loss Account.
+Foreign exchange contracts are classified as assets when
+the fair value is positive (positive marked to market value) or
+as liabilities when the fair value is negative (negative marked
+to market value).
+Foreign exchange forward contracts not intended for
+trading, that are entered into to establish the amount of
+reporting currency required or available at the settlement
+date of a transaction, and are outstanding at the Balance
+Sheet date, are effectively valued at the closing spot rate.
+The premium or discount arising at the inception of such
+forward exchange contract is amortised as expense or
+income over the life of the contract.
+The Bank recognises all derivative contracts at fair value, on
+the date on which the derivative contracts are entered into
+and are re-measured at fair value as at the Balance Sheet
+date. Derivatives are classified as assets when the fair value
+is positive (positive marked to market value) or as liabilities
+when the fair value is negative (negative marked to market
+value).
+The Bank as part of its risk management strategy, makes
+use of financial derivative instruments, including foreign
+exchange forward contracts, for hedging the risk embedded
+in some of its financial assets or liabilities recognised on the
+balance sheet. The Bank identifies the hedged item (asset
+or liability) at the inception of the transaction itself. Hedge
+effectiveness is ascertained at the time of the inception of
+the hedge and at the reporting date thereafter.
+In case of a fair value hedge, the changes in the fair value of
+the hedging instruments and hedged items are recognised
+in the Profit and Loss Account and in case of cash flow
+hedges, the changes in fair value of effective portion are
+recognised in Reserves and Surplus under 'Cash flow
+hedge reserve' and ineffective portion of an effective
+hedging relationship, if any, is recognised in the Profit
+and Loss Account. The accumulated balance in the cash
+flow hedge reserve, in an effective hedging relationship, is
+recycled in the Profit and Loss Account at the same time
+that the impact from the hedged item is recognised in the
+Profit and Loss Account.
+8
+Revenue recognition
+Interest income is recognised in the Profit and Loss Account
+on an accrual basis, except in the case of non-performing
+assets and overdue interest on retail EMI based performing
+advances, which are recognised when realised. In case
+of domestic advances, where interest is collected on rear
+end basis, such interest is accounted on receipt basis in
+accordance with the RBI communication.
+Interest income on investments in PTCs and loans bought
+out through the direct assignment route is recognised at
+their effective interest rate.
+Income on non-coupon bearing discounted instruments is
+recognised over the tenor of the instrument on a constant
+yield basis.
+Loan processing fee is recognised as income when due.
+Syndication / Arranger fee is recognised as income when
+a significant act / milestone is completed.
+Gain / loss on sell down of loans is recognised in line with
+the extant RBI guidelines.
+Dividend on equity shares, preference shares and on
+mutual fund units is recognised as income when the right
+to receive the dividend is established.
+Guarantee commission, commission on letter of credit,
+annual locker rent fees and annual fees for credit cards
+are recognised on a straight-line basis over the period
+of contract. Other fees and commission income are
+recognised when due, where the Bank is reasonably
+certain of ultimate collection.
+Fees paid / received for priority sector lending certificates
+(PSLC) is recognised on straight-line basis over the period
+of the certificate.
+9
+Employee benefits
+Employee Stock Option Scheme (ESOS):
+The Employee Stock Option Scheme ('the Scheme')
+provides for the grant of options to acquire equity shares
+of the Bank to its employees and whole time directors.
+The options granted to employees vest as per their vesting
+schedule and these may be exercised by the employees
+within a specified period.
+The Bank follows the intrinsic value method to account for
+its stock-based employee compensation plans in respect of
+options granted up to March 31, 2021. Compensation cost
+is measured by the excess, if any, of the market price of
+the underlying stock over the exercise price as determined
+under the option plan. The market price is the closing
+price on the stock exchange where there is highest trading
+volume on the working day immediately preceding the date
+of grant. Compensation cost, if any is amortised over the
+vesting period.
+Effective April 01, 2021, the fair value of share-linked
+instruments on the date of grant for all instruments granted
+after March 31, 2021 is recognised as an expense in
+234

@@ -1,0 +1,98 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+SCOPE 3 EMISSIONS (tCO2e)
+5,600 951 3,006
+33,136
+FY22
+6,020
+193 2,960
+FY21
+6,497
+6,374
+3,548
+FY20
+Cab Hire
+Air Travel
+Paper Waste
+E-waste
+Other facilities
+Graph not to scale
+SCOPE 3 EMISSIONS
+(42,697 tCO2e)
+78%
+13%
+2%
+7%
+· Other facilities
+· Cab Hire
+Air & Rail Transport
+· Paper Waste
+· E-waste
+Emission Scope
+Emission Source
+Emissions
+(tCO2e)
+Scope 1
+Company-owned Vehicles
+8,534
+Diesel consumption in DG sets
+12,343
+Scope 2
+Purchased electricity
+287,667
+Scope 3
+Purchased electricity in other facilities
+33,136
+Cab Hire
+5,600
+Air Travel
+950
+Rail Travel
+2
+Paper Waste
+3,006
+E-waste
+4
+Notes:
+Scope 1 emissions includes CO2, N2O and CH2 emissions from the combustion of diesel purchased
+by the Bank for its various facilities, as well as combustion of various fossil fuels in Bank-owned
+vehicles. For the former, diesel purchase data is extracted from the Bank's financial management
+system and the cost of diesel purchased is converted into liters of diesel using conservative
+estimates of diesel prices in various states. For the latter source, activity data in terms of quantity
+of fuel has been extracted from the financial management system. Emission factors and GWP from
+GHG Protocol's Cross sector tool and IPCC's AR5 respectively have been used.
+Scope 2 emissions include GHG emissions from electricity consumed in the facilities that can be
+reasonably considered to be under the operational control of the Bank, as well as its co-located data
+centres. A hierarchical approach has been followed for estimation of emissions from this category
+(i.e. (i) monitored data on electrical energy consumption, (ii) estimates of electricity consumed based
+on procurement costs and state-level tariff; and (iii) estimated electricity consumption based on
+climatic-zone specific, internally derived electricity consumption benchmarks; in that order). In all
+cases, Grid emission factor from version 17 of the CEA's (Central Electrical Authority) CO2 database
+has been used.
+Scope 3 emission estimation: Emission on account of purchased electricity at our other locations
+have been estimated using the same approach as in Scope 2 but includes other facilities not
+included in Scope 2 emissions. Emissions from hired cabs have been estimated based on expense
+report for hired cabs from the Bank's financial management system - which has been used to derive
+the distance travelled. Average of emission factor for various categories of cars from the India GHG
+programme has been used. For domestic air and rail travel, information on trip characteristics has
+been extracted from the Bank's financial management system, and the distance travelled is derived
+from publicly available sources. The emissions have been calculated in accordance with the India
+GHG programme. For international travel through air, the source of data remains the same, but
+emission factors for different class of travel and haul categories have been derived from the GHG
+protocol.
+Emissions from paper and e-waste have been estimated based on emission factors provided by
+the latest version of the USEPA's WARM tool on the extracted data for paper used and e-waste
+disposed.
+HDFC Bank Limited Integrated Annual Report 2021-22
+61

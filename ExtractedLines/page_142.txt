@@ -1,0 +1,107 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+The new facilities help ensure the Board's continued focus on
+ensuring a robust IT infrastructure for the Bank's applications
+and operations with higher customer uptimes across
+digital touchpoints.
+5. Technology Obsolescence Management
+A technology obsolescence program management office was
+established in June 2021 for comprehensive obsolescence
+tracking and management. Processes and procedures have
+been introduced to identify and remediate obsolete components
+6 months before the end of support. The scope covers more
+than 19,000 components across the Bank's IT environment as
+of today. A detailed plan is in place to remediate components
+pertaining to high-risk applications by June 2022. The Bank
+continues to maintain rigorous monitoring on obsolescence
+through periodic reviews and reporting along with the
+senior management.
+6. Cyber Security
+Cyber security is at the heart of the technology transformation
+journey with substantial advancements being made to further
+fortify the Bank's infrastructure and applications. A few initiatives
+in this regard are:
+· Foundation of a next-gen Security Operations Centre
+(SOC) with advanced technologies for predictive security
+and incident management - To this effect, the Bank
+has provisioned the Securonix platform on AWS and
+configured more than 10,000 logging sources and devices
+for monitoring
+· Introduction of Security Orchestration, Automation &
+Response (SOAR) to reduce the incident response time
+by connecting security solutions with each other and
+automating the incident life cycle
+· Micro-segmentation is being enabled in the data centre
+network to allow higher visibility across network flows as
+well as stronger preparedness and management against
+ransomware related events/incidents
+. 24x7 defacement monitoring and vulnerability management
+of the Bank's internet properties minimise the surface area
+for cyber security attacks.
+Technology related challenges over the past few years have
+only made the Bank's resolve stronger to consolidate and fortify
+its technology environment. Focused technology and digital
+investments and programs in technology are pivotal to the Bank
+to usher in the new age of digital banking and experiences for
+its customers.
+Service Quality Initiatives and Grievance Redressal
+Customer Focus is one of the five core values of your Bank.
+Driven by this core value, your Bank has always endeavoured
+to improve customer experience and has adopted a holistic
+approach for the same across multiple channels. This is critical
+in a highly competitive business environment, especially since
+it has various lines of businesses. Ensuring product quality and
+service delivery becomes vital for business growth. Your Bank
+desires to achieve this by seeking customer feedback as well
+as benchmarking with best-in-class business entities. Your bank
+has adopted a three-step strategy with regards to Customer
+Service - Define, Measure, and Improve.
+Your Bank has adopted a multi-pronged approach to provide
+an omnichannel experience to its customers. On one side, your
+Bank has traditional touch points like Branch, Email Management
+team and Phone banking, and on the other side, it has state- of-
+the-art platforms like NetBankinbg, MobileBanking, the chatbot
+Eva and the bank's exclusive social care handles which offer a
+wide range of channel choice to its customers. Your Bank has
+also improvised on the relationship-based banking programmes.
+In addition to the branch-based relationship managers, it also
+has a Virtual Relationship Manager (VRM) programme to cater
+to various financial needs in a personalized manner. Your Bank
+invites and reviews the performance on customer service as well
+as grievance redressal at different levels which are Branch Level
+Customer Service Committees (BLCSCs), Standing Committee
+on Customer Service (SCCS) and Customer Service Committee
+of the Board (CSCB). Your Bank has put robust processes in
+place to regularly monitor and measure quality of service levels
+not only at various touch points but also at a product and
+process level by Quality Initiatives Group.
+As part of its continuous efforts to enhance quality of service, the
+Service Quality team carries out regular reviews across various
+products/processes/channels. The effectiveness of the quality
+of service provided is also reviewed at different levels, including
+the Customer Service Committee of the Board.
+One of the basic building blocks of providing acceptable level
+of customer service is to have an effective internal Grievance
+Redressal mechanism / framework. In this regard, the bank has
+outlined a framework for redressal of customer grievances and
+documented it in the form of a Grievance Redressal Policy - duly
+approved by its Board. Bank has also made this policy available
+in public domain (on the website as well as in the branches).
+Your Bank has provided multiple channels to its customers
+to share feedback on its services as well as register their
+grievances. Your Bank is at the forefront of developing innovative
+financial solutions and digital platforms. This, coupled with
+concerted efforts at creating awareness among customers,
+has led to an increase in the use of its digital channels as well
+HDFC Bank Limited Integrated Annual Report 2021-22 145

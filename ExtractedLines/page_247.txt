@@ -1,0 +1,107 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+. Sale and transfers to / from HTM category
+. During the year ended March 31, 2022, there has been no sale from, and transfer to / from, HTM category in excess
+of 5% of the book value of investments held in the HTM category at the beginning of the year.
+· In accordance with the RBI guidelines, sale from, and transfer to / from, HTM category exclude:
+a. The one-time transfer of securities to / from HTM category with the approval of Board of Directors undertaken
+by banks at the beginning of the accounting year;
+b.
+Direct sales from HTM for bringing down SLR holdings in HTM category consequent to a downward revision
+in SLR requirements by RBI;
+c. Sales to the Reserve Bank of India under liquidity management operations of RBI such as the Open Market
+Operations (OMO) and the Government Securities Acquisition Programme (GSAP);
+d.
+Repurchase of Government Securities by Government of India from banks under buyback / switch operations;
+e.
+Repurchase of State Development Loans by respective state governments under buyback / switch
+operations; and
+f.
+Additional shifting of securities explicitly permitted by the Reserve Bank of India.
+11. Derivatives
+· Forward Rate Agreements (FRA) / Interest Rate Swaps (IRS)*
+(₹ crore)
+Sr.
+No.
+Particulars
+March 31, 2022
+March 31, 2021
+i)
+The total notional principal of swap agreements
+518,928.08
+317,188.20
+ii)
+Total losses which would be incurred if counter parties failed to fulfill their
+obligations under the agreements
+3,011.67
+3,251.25
+iii)
+Collateral required by the Bank upon entering into swaps ***
+-
+17.10
+iv)
+Concentration of credit risk arising from swaps (%) **
+47.17%
+62.04%
+V)
+Concentration of credit risk arising from swaps (Amount) **
+1,420.65
+2,017.07
+vi)
+The fair value of the swap book
+255.15
+(141.37)
+*
+Interest Rate Swaps are comprised of INR Interest Rate Swaps and FCY Interest Rate Swaps.
+** Concentration of credit risk arising from swaps is with banks as at March 31, 2022 and March 31, 2021.
+*** Represents outstanding amount of net margin received from customers as at March 31, 2022 and March 31, 2021.
+The nature and terms of Rupee IRS outstanding as at March 31, 2022 are set out below:
+(₹ crore, except numbers)
+Nature
+Nos.
+Notional principal
+Benchmark
+Terms
+Trading
+2
+600.00
+INCMT
+Floating receivable v/s fixed payable
+Trading
+3,609
+220,044.98
+OIS
+Fixed receivable v/s floating payable
+Trading
+4,041
+222,466.69
+OIS
+Floating receivable v/s fixed payable
+Trading
+2
+1,000.00
+MIOIS
+Floating receivable v/s fixed payable
+Trading
+425
+28,418.85
+MIFOR
+Fixed receivable v/s floating payable
+Trading
+99
+5,209.83
+MIFOR
+Floating receivable v/s fixed payable
+Trading
+27
+2,040.00
+MOD MIFOR
+Fixed receivable v/s floating payable
+Trading
+18
+995.00
+MOD MIFOR
+Floating receivable v/s fixed payable
+Total
+480,775.35
+250

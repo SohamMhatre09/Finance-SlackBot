@@ -1,0 +1,93 @@
+Directors' Report
+Given below is a detailed explanation under four different
+heads: Framework and Process, Internal Control, Information
+Technology and Security Practices and Fraud Monitoring
+and Control.
+a. Framework and Process
+To manage Operational Risks, your Bank has in place a
+comprehensive Operational Risk Management Framework,
+whose implementation is supervised by the Operational Risk
+Management Committee (ORMC) and reviewed by the RPMC
+of the Board. An independent Operational Risk Management
+Department (ORMD) implements the framework. Under the
+framework, the Bank has three lines of defence. The first line of
+defence is the business line (including support and operations).
+The first line is primarily responsible for developing risk mitigation
+strategies in managing operational risk for their respective units.
+The second line of defence is the ORMD, which is responsible
+for implementing the operational risk management framework
+across the Bank. It designs and develops tools required for
+implementing the framework including policies and processes,
+guidelines towards implementation and maintenance of the
+framework. In order to achieve the aforesaid objective pertaining
+to operational risk management framework, the ORMC guides
+and oversees the functioning, implementation and maintenance
+of operational risk management activities of Bank, with special
+focus on:
+· Identification and assessment of risks across the Bank
+through the Risk and Control Self-Assessment (RCSA) and
+Scenario analysis
+· Measurement of Operational Risk based on the actual
+loss data
+· Monitoring of risk through Key Risk Indicators (KRI)
+· Management and reporting through KRI, RCSA and loss
+data of the Bank
+Internal Audit is the third line of defence. The team reviews the
+effectiveness of governance, risk management and internal
+controls within your Bank.
+b. Internal Control
+Your Bank has implemented sound internal control practices
+across all processes, units and functions. It has well laid down
+policies and processes for the management of its day-to-
+day activities. Your Bank follows established, well-designed
+controls, which include traditional four eye principles, effective
+segregation of business and support functions, segregation of
+duties, call back processes, reconciliation, exception reporting
+and periodic MIS. Specialised risk control units function in risk-
+prone products/ functions to minimise operational risk. Controls
+are tested as part of the SOX control testing framework.
+c. Information Technology and Information
+Security Practices
+Your Bank operates in a highly automated environment and
+makes use of the latest technologies available on cloud or on
+Premises Data centres to support various business segments.
+This results in various risks such as those associated with the
+use, ownership, operation, involvement, influence, and adoption
+of IT within an enterprise, as well as business disruption due
+to technological failures. Additionally, it can lead to risks
+related to information assets, data security, integrity, reliability
+and availability, among others. Your Bank has put in place a
+governance framework, information security practices and
+business continuity plan to mitigate Information Technology &
+Information Security-related risks.
+The three lines of defence approach is adopted for enterprise-
+wide Technology Risk management. The first line of defence
+holds primary responsibility of managing the risk and ensuring
+proper controls are in place.
+The second line of defence defines policies, frameworks and
+controls. Information Technology Risk and Information Security
+Group addresses technology and information security related
+risks. A well-documented Board-approved information security
+policy and cyber security policy are in place. Your Bank has a
+robust Business Continuity and Disaster Recovery plan that is
+periodically tested to ensure that it can meet any operational
+contingencies. Further, there is a well-documented crisis
+management plan in place to address the strategic issues of
+a crisis impacting the Bank and to direct and communicate
+the corporate response to the crisis including cyber crisis. In
+addition, employees mandatorily and periodically undergo
+information security training and sensitisation exercises.
+For details on robust cyber security measures please refer page
+no. 51.
+An independent assurance team within Internal Audit acts as a
+third line of defence that provides assurance on the management
+of IT-related risks.
+d. Fraud Monitoring and Control
+Your Bank has put in place a Whistle Blower and Vigilance Policy
+and a central vigilance team that oversees the implementation
+of fraud prevention measures. Frauds are investigated to
+identify the root cause and relevant corrective steps are taken
+to prevent recurrence.
+Fraud Monitoring committees at the senior management and
+Board level also deliberate on material fraud events and advise
+148

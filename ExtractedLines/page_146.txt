@@ -1,0 +1,109 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+preventive actions. Periodic reports are submitted to the Board
+and senior management committees.
+Compliance Risk
+Compliance Risk is defined as the risk of impairment of your
+Bank's integrity, leading to damage to its reputation, legal or
+regulatory sanctions, or financial loss, as a result of a failure (or
+perceived failure) to comply with applicable laws, regulations
+and standards. Your Bank has a Compliance Policy to ensure
+the highest standards of compliance. A dedicated team of
+subject matter experts in the Compliance Department works
+with business, support and operations teams to ensure active
+Compliance Risk management and monitoring. The team also
+provides advisory services on regulatory matters. The focus is on
+identifying and reducing risk by rigorously testing products and
+also putting in place robust internal policies. Products that adhere
+to regulatory norms are tested after rollout and shortcomings,
+if any, are fully addressed till the product stabilises on its own.
+Internal policies are reviewed and updated periodically as per
+agreed frequency or based on market actions or regulatory
+guidelines/actions. The compliance team also seeks regular
+feedback on regulatory compliance from product, business and
+operation teams through self-certifications and monitoring.
+ICAAP
+Your Bank has a structured management framework in the
+Internal Capital Adequacy Assessment Process (ICAAP) to
+identify, assess and manage all risks that may have a material
+adverse impact on its business/financial position/capital
+adequacy. The ICAAP framework is guided by the Board
+approved ICAAP Policy.
+Stress Testing Framework
+Your Bank has implemented a Board approved Stress Testing
+Policy and Framework which forms an integral part of the Bank's
+ICAAP. Stress testing involves the use of various techniques to
+assess your Bank's potential vulnerability to extreme but plausible
+stressed business conditions. The changes in the levels of Pillar
+I risks and select Pillar II risks, along with the changes in the
+on and off Balance Sheet positions of your Bank are assessed
+under assumed 'stress' scenarios and sensitivity factors. The
+suite of stress scenarios include topical themes as well as
+prevailing geopolitical / macroeconomic / sectoral and other
+trends. The stress testing outcome may be analysed through
+capital impact and/or identification of vulnerable borrowers
+depending on the scenario.
+Group Risk
+Your Bank has two subsidiaries, HDB Financial Services Limited
+and HDFC Securities Limited. The Board of each subsidiary is
+responsible for managing their respective material risks (Credit
+Risk, Concentration Risk, Market Risk, Operational Risk,
+Liquidity Risk, Interest Rate Risk on Banking Book, Technology
+Risk, Reputation Risk, Compliance Risk, Business Risk and
+others). The Group Risk Management Committee (GRMC) was
+instituted in your Bank under the ICAAP framework to establish a
+formal and dedicated structure to periodically assess the nature/
+quantum of material risks of the subsidiaries and adequacy of
+its risk management processes. Stress testing for the group
+as a whole is carried out by integrating the stress tests of
+the subsidiaries. Similarly, capital adequacy projections are
+formulated for the group after incorporating the business/capital
+plans of the subsidiaries.
+Business Continuity Planning (BCP)
+Your Bank has an ISO22301:2019 certified Business Continuity
+Program in place to minimise service disruptions and potential
+impact on its employees, customers and business during any
+unforeseen adverse events or circumstances. This program
+is designed in accordance with the guidelines issued by
+regulatory bodies and is subject to regular internal, external and
+regulatory reviews. The central Business Continuity Office works
+towards strengthening the bank's continuity preparedness.
+The implementation is overseen by the Business Continuity
+Steering Committee which is chaired by the Chief Risk Officer.
+The Business Continuity Procedure has well defined roles and
+responsibilities for Crisis Management, Business Recovery,
+Emergency Response and IT Disaster Recovery Teams. Please
+refer to page no. 52 for more details.
+Some of the key aspects of thisprogram include thefollowing:
+· Presence of a Steering Committee for centralised monitoring
+of your Bank's Business Continuity program implementation
+· Presence of Crisis Management teams for effective
+management of recovery operations during disruptive events
+· Presence of a dedicated DR site for recovery of critical core
+and customer facing applications
+· Decentralised recovery plans at functional and regional
+levels for structured and speedy recovery of operations
+· Periodic drills are exercises for testing the effectiveness of
+these recovery plans.
+These robust practices have enabled your bank to continue
+delivering banking services seamlessly to customers throughout
+the COVID-19 pandemic phases coupled with other major
+disruptive events. Your Bank has successfully emerged from
+all these difficult situations with a hybrid approach comprising
+of well-adopted continuity and recovery strategies like remote
+working (work from home), split operations, work transfer and/
+or staff transfer to available sites, in accordance with prevailing
+protocols and norms.
+HDFC Bank Limited Integrated Annual Report 2021-22
+149

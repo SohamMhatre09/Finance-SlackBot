@@ -1,0 +1,19 @@
+Sr. No. Particulars,Currency derivatives,,Interest rate derivatives,
+,"March 31, 2022","March 31, 2021","March 31, 2022","March 31, 2021"
+1 Derivatives (notional principal amount),,,,
+a) Hedging,"7,579.25",-,-,-
+b) Trading,"62,860.03","40,074.83","519,322.30","317,629.80"
+2 Marked to market positions,,,,
+a) Asset (+),"1,108.41",922.74,"3,019.64","3,253.93"
+b) Liability (-),(672.91),(594.51),"(2,764.49)","(3,395.30)"
+c) Net,435.50,328.23,255.15,(141.37)
+3 Credit exposure,"3,983.65","3,077.28","6,896.91","5,423.27"
+4 Likely impact of one percentage change in interest rate (100*PV01) **,,,,
+a) On hedging derivatives,2.82,-,-,-
+b) On trading derivatives,49.06,32.08,501.21,187.97
+5 Maximum of 100*PV01 observed during the year **,,,,
+a) On hedging*,5.05,-,-,-
+b) On trading,57.78,43.07,527.62,187.97
+6 Minimum of 100*PV01 observed during the year **,,,,
+a) On hedging*,1.97,-,-,-
+b) On trading,33.04,18.83,272.28,0.34

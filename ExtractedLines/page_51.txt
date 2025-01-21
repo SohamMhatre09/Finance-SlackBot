@@ -1,0 +1,82 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+Information Technology Risk
+Risks associated with the use, ownership, operation,
+involvement, influence, and adoption of IT within an
+enterprise, as well as business disruption due to
+technological failures.
+Mitigation
+There are well defined policies, frameworks,
+procedures, templates, and risk assessment
+methodology for IT risk management.
+The framework enables risk assessment of IT
+solutions, entities providing IT and related services and
+new technology and digital implementation.
+Strategies
+Ensure alignment of Business and IT Strategies to
+provide services and superior customer experience.
+Making extensive progress on some of the key
+initiatives that are part of our technology transformation
+agenda. The key initiatives are Infrastructure stability,
+Disaster Recovery Resiliency, Security enhancements
+and monitoring mechanisms.
+Capitals Impacted
+Cyber Security and Data Risk
+Risk of cyber-attacks on the Bank's systems through
+hacking, phishing, ransomware and other means, resulting
+in disruption of our services or theft or leak of sensitive
+internal data or customer information.
+Mitigation
+Each cyber security threat including data privacy issue is
+assessed basis the framework - Identify, Prevent/Protect,
+Detect, Respond and Recover. Further controls such as
+firewalls, anti-malware, anti-advance persistent threats,
+data loss prevention, Red Teaming, Intrusion prevention/
+detection, digital rights management, 24*7 security
+operation centre, and forensics solutions, have been put in
+place.
+The international 'General Data Protection Regulation
+(GDPR)' has also been implemented across relevant
+operations. The Bank is compliant with ISO 27001 and PCI
+DSS standards.
+Strategies
+Facilitating bank's growth via secure Digital 2.0 -
+implemented through Social, Mobile, Analytics and Cloud
+technology.
+Adapting and updating Cyber Defence framework, using AI/
+ML to further augment cyber defence capabilities to counter
+new-age threats.
+Increase information security awareness among employees
+and customers through specific programmes and
+communications.
+Sustaining operational effectiveness and efficiency through
+secure Work from Home.
+Capitals Impacted
+dil
+Financial
+Capital
+Human
+Capital
+&
+Intellectual
+Capital
+Social &
+Relationship
+Capital
+Manufactured
+Capital
+Natural
+Capital
+HDFC Bank Limited Integrated Annual Report 2021-22
+51

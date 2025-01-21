@@ -1,0 +1,147 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+the term of the schemes, the Company may issue stock options to employees and directors of the Company, each of which
+is convertible into one equity share.
+Such options vest at a definitive date, save for specific incidents, prescribed in the scheme as framed / approved by the NRC.
+Such options are exercisable for a period following vesting at the discretion of the NRC, subject to a maximum of four years
+from the date of vesting.
+Method used for accounting for shared based payment plan
+The company uses fair value to account for the compensation cost of stock options to employees of the company.
+Activity in the options outstanding under the Employee Stock Option Plans
+· Activity in the options outstanding under the various employee stock option plans as at March 31, 2022:
+Particulars
+Options
+Weighted average
+exercise price (₹)
+Options outstanding, beginning of year
+31,76,650
+313.22
+Granted during the year
+22,94,730
+432.48
+Exercised during the year
+12,54,815
+301.93
+Forfeited / Lapsed during the year
+1,47,250
+317.09
+Options outstanding, end of year
+40,69,315
+383.81
+Options exercisable, end of year
+4,13,245
+300.52
+· Activity in the options outstanding under the various employee stock option plans as at March 31, 2021:
+Particulars
+Options
+Weighted average
+exercise price (₹)
+Options outstanding, beginning of year
+21,51,580
+237.62
+Granted during the year
+27,79,450
+320.33
+Exercised during the year
+16,05,560
+229.62
+Forfeited / Lapsed during the year
+1,48,820
+255.07
+Options outstanding, end of year
+31,76,650
+313.22
+Options exercisable, end of year
+1,19,430
+249.41
+· The following table summarises the information about stock options outstanding as at March 31, 2022:
+Plan
+Range of exercise
+price (₹)
+Number of
+shares arising
+out of options
+Weighted average
+remaining contractual
+life of options (in
+years)
+Weighted average
+exercise price (₹)
+ESOP-10
+213.00
+42,000
+2.53
+213.00
+ESOP-11
+274.00
+1,06,430
+3.79
+274.00
+ESOP-12
+300.00
+7,02,910
+4.52
+300.00
+ESOP-13
+348.00
+9,33,155
+5.64
+348.00
+ESOP-13A
+409.00
+50,000
+6.42
+409.00
+ESOP-14
+433.00
+22,34,820
+6.58
+433.00
+· The following table summarises the information about stock options outstanding as at March 31, 2021:
+Plan
+Range of exercise
+price (₹)
+Number of
+shares arising
+out of options
+Weighted average
+remaining contractual
+life of options
+(in years)
+Weighted average
+exercise price (₹)
+ESOP-10
+213.00
+48,150
+3.59
+213.00
+ESOP-11
+274.00
+3,94,000
+4.58
+274.00
+ESOP-12
+300.00
+15,58,900
+5.07
+300.00
+ESOP-13
+348.00
+11,75,600
+5.94
+348.00
+Fair value methodology
+The fair value of options has been estimated on the dates of each grant using the Black-Scholes model. The shares of Company
+are not listed on any stock exchange. Accordingly, the Company had considered the volatility of the Company's stock price
+HDFC Bank Limited Integrated Annual Report 2021-22 337

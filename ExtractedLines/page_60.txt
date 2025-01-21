@@ -1,0 +1,121 @@
+Environment
+Our Scope 1 emission increased
+from 5,826 tCO2e in FY21 to 20,877
+tCO2e in FY22, primarily on account
+of inclusion of emissions from
+diesel consumption in generators -
+which were previously included in
+Scope 2. This is because we have
+actual/ perceived control on the fuel
+consumed at a significant number of
+our branches and office locations.
+Fuel consumption in company-owned
+vehicles account for about 41% of
+our Scope 1 emissions while diesel
+consumption in diesel generators
+account for the remaining 59%.
+Our Scope 2 emissions decreased by
+12,474 tCO2e in FY22 over FY21, of this
+9,570 tCO2e was on account of shifting
+emissions from diesel generators to
+Scope 1. Emissions on account of
+purchased electricity decreased by
+2,904 tCO2e, despite the inclusion
+of our co-located data centres and
+an increase in the number of other
+locations in Scope 2 inventory.
+We are committed to collaborating with
+our data centre service providers to
+reduce the GHG footprint of our owned
+and co-located data centres. Currently,
+data centres contribute 7% of our
+Scope 2 emissions. This year, we
+also enhanced our approach towards
+calculation of Scope 2 emissions.
+We have stepped up our efforts to
+collect actual electricity consumption
+data for estimating corresponding
+GHG emissions. In doing so, we
+are prioritising high-consumption
+locations. In FY22, we collected actual
+kWh data on electricity consumed
+from 46% of our locations - which
+collectively consumed about 50% of
+electrical energy.
+For remaining locations, we track the
+cost of electricity consumed through
+our robust financial management
+system and use the same to derive
+estimates of electricity consumed
+using the most conservative tariff
+for commercial slabs at the state
+level. There are some of our smaller
+locations like ATMs for which we
+are in the process of establishing
+systems to collect activity data. For
+such locations, we are estimating
+electrical energy consumption based
+on a methodology that takes into
+account the climatic zone in which
+such locations are based, and energy
+consumption benchmarks derived
+from data on actual electrical energy
+consumption collected by us in similar
+locations. Although electrical energy
+consumption at such ATMs is only
+about 4% of our total electrical energy
+consumption, we are progressively
+enhancing our systems to capture
+actual activity data on electrical energy
+consumption for all locations.
+In FY22, our Scope 3 emissions
+increased significantly over FY21,
+primarily on account of inclusion
+of emissions due to electricity
+consumption at other facilities.
+These emissions now account for
+78% of our total Scope 3 emissions.
+The remaining 22% of our Scope 3
+emissions are split between emissions
+due to hired cabs (13%), air and rail
+travel (2%), paper waste (7%), and
+e-waste (<1%).
+SCOPE 1 EMISSIONS (tCO2e)
+8,534
+12,343
+FY22
+5,826
+FY21
+7,649
+FY20
+· Company-owned Vehicles
+Diesel
+SCOPE 2 EMISSIONS (tCO2)
+287,667
+FY22
+9,570
+290,571
+FY21
+15,884
+374,292
+FY20
+Diesel
+Electricity
+ELECTRICITY EMISSIONS
+(287,667 tCO2e)
+7%
+93%
+· Data Centres
+· Other locations (offices,
+branches, ATMs etc.)
+We have expanded the
+reporting boundary for
+our Scope 2 emissions.
+This year onwards,
+we will be including
+emissions relating to use
+of purchased electricity
+at our co-located data
+centres in our Scope 2
+emissions.
+60

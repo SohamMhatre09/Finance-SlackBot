@@ -1,0 +1,50 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+Provident fund
+The guidance note on AS-15, Employee Benefits, states that employer established provident funds, where interest is guaranteed
+are to be considered as defined benefit plans and the liability has to be valued. The Institute of Actuaries of India (IAI) has issued
+a guidance note on valuation of interest rate guarantees on exempt provident funds. The actuary has accordingly valued the
+same and the Bank held a provision of Nil as at March 31, 2022 (previous year: Nil), towards the present value of the guaranteed
+interest benefit obligation. The actuary has followed the deterministic approach as prescribed by the guidance note.
+Assumptions
+Particulars
+March 31, 2022
+March 31, 2021
+Discount rate (GOI security yield)
+6.80% per annum
+6.50% per annum
+Expected guaranteed interest rate
+8.10% per annum
+8.50% per annum
+The Bank does not have any unfunded defined benefit plan. The Bank contributed ₹ 420.98 crore (previous year: ₹ 370.13
+crore) to the provident fund, ₹ 5.72 crore (previous year: ₹ 4.63 crore) to the National Pension Scheme (for employees who
+opted) and ₹ 76.37 crore (previous year: ₹ 75.64 crore) to the superannuation plan.
+The Code on Social Security 2020 ('the Code') relating to employee benefits, during the employment and post-employment,
+has received Presidential assent on September 28, 2020. The Code has been published in the Gazette of India. Further, the
+Ministry of Labour and Employment has released draft rules for the Code on November 13, 2020. The effective date from
+which the changes are applicable is yet to be notified and rules for quantifying the financial impact are not yet issued. The
+Bank will assess the impact of the Code and will give appropriate impact in the financial statements in the period in which, the
+Code becomes effective and the related rules to determine the financial impact are published.
+25. Disclosures on remuneration
+Qualitative Disclosures
+A. Information relating to the bodies that oversee remuneration
+Name and composition
+The Board of Directors of the Bank has constituted the Nomination and Remuneration Committee (hereinafter, the 'NRC')
+for overseeing and governing the compensation policies of the Bank. The NRC is comprised of five non-executive directors
+as of March 31, 2022. Further, four members of the NRC are also members of the Risk Policy and Monitoring Committee
+(hereinafter, the 'RPMC') of the Board.
+As of March 31, 2022, the NRC is comprised of Mr. Umesh Chandra Sarangi, Mr. Sanjiv Sachar, Mr. Sandeep Parekh,
+Mr. M.D. Ranganath and Mr. Atanu Chakraborty. Further, Mr. Sanjiv Sachar, Mr. M.D. Ranganath, Mr. Sandeep Parekh
+and Mr. Atanu Chakraborty are also the members of the RPMC. Mr. Sanjiv Sachar is the chairperson of the NRC.
+Mandate of the NRC
+The primary mandate of the NRC is to oversee and review the implementation of compensation policies of the Bank.
+The NRC periodically reviews the overall Remuneration Policy of the Bank with a view to attract, retain and motivate
+employees. In this capacity it is required to review and approve the design of the total compensation framework, including
+compensation strategy programs and plans, on behalf of the Board of Directors. The compensation structure and pay
+revision for the Group Heads, Material Risk Takers, Senior Management, Risk and Control Staff, Key Management
+Personnel and Whole Time Directors (who are also Material Risk Takers) of the Bank is approved by the NRC and
+subsequently approved by the Board of Directors. The compensation of the Whole Time Directors requires the additional
+approval of the Reserve Bank of India. The NRC co-ordinates with the RPMC to ensure that compensation is aligned
+with prudent risk taking. Further the NRC also reviews the appointments of individuals at the levels of Group Heads, Key
+Management Personnel, Senior Management and Whole Time Directors of the Bank.
+272

@@ -1,0 +1,215 @@
+266
+17. Maturity pattern of key assets and liabilities
+Assets and liabilities are classified in the maturity buckets as per the guidelines issued by the RBI.
+(₹ crore)
+As at
+March 31, 2022
+1 day
+2 to 7 8 to 14 days
+days
+15 to 30 31 days to 2 2 months to
+days
+months
+3 months months to 6
+Over 3
+months
+Over 6
+months to 1
+year
+Over 1 year Over 3 years
+to
+3 years
+to
+5 years
+Over
+5 years
+Total
+Loans & advances*
+15,887.52
+21,695.65
+15,157.80
+45,647.16
+51,173.80
+53,279.34
+90,228.96
+101,559.82
+560,217.39
+185,260.82
+228,712.67 1,368,820.93
+Investments*
+102,260.15
+22,936.74
+4,113.47
+7,045.41
+9,643.29
+8,324.59
+23,635.54
+27,984.84
+159,398.09
+12,542.99
+77,650.58
+455,535.69
+Deposits*
+32,342.12
+70,543.76
+30,158.67
+37,703.12
+50,207.34
+35,555.31
+75,054.08
+103,905.16
+669,179.97
+15,077.04
+,490.87 1,559,217.44
+Borrowings*
+542.63
+16,504.77
+3,177.86
+15,036.59
+20,313.02
+8,153.04
+15,073.47
+26,803.05
+48,219.53
+17,993.25
+13,000.00
+184,817.21
+Foreign currency
+assets
+14,259.58
+12,976.59
+6,209.09
+18,737.58
+9,202.72
+6,337.86
+14,212.97
+3,628.29
+4,974.93
+1,722.78
+759.90
+93,022.29
+Foreign currency
+liabilities
+2,494.86
+2,843.35
+4,739.94
+9,502.37
+13,118.28
+8,912.00
+10,304.04
+9,451.62
+9,134.10
+8,555.93
+3,420.55
+82,477.04
+* The amounts represented include Foreign Currency Balances.
+Classification of assets and liabilities under the maturity buckets is based on the same estimates and assumptions as used by the Bank for compiling the return submitted to the RBI.
+Maturity profile of foreign currency assets and liabilities excludes off-balance sheet items.
+(₹ crore)
+As at
+March 31, 2021
+1 day
+2 to 7 8 to 14 days
+days
+15 to 30 31 days to 2 2 months to
+days
+months
+3 months months to 6
+Over 3
+months
+Over 6
+months to 1
+year
+Over 1 year Over 3 years
+Over
+5 years
+Total
+to
+3 years
+to
+5 years
+Loans & advances*
+9,900.05
+20,452.08
+10,506.09
+44,857.71
+49,736.96
+48,183.51
+96,978.08
+109,238.00
+483,407.07
+123,428.17
+136,148.91
+1,132,836.63
+Investments*
+112,341.38
+43,161.08
+4,382.04
+5,714.46
+9,820.26
+9,528.83
+16,545.14
+23,695.50
+144,222.12
+9,065.84
+65,251.65
+443,728.30
+Deposits*
+13,684.11
+70,664.28
+40,914.97
+30,083.61
+50,474.48
+36,695.33
+78,391.96
+91,952.08
+532,038.94
+14,701.27
+375,459.19
+1,335,060.22
+Borrowings*
+258.26
+36,992.20
+1,207.28
+4,011.50
+7,153.92
+2,751.16
+11,238.59
+10,202.85
+38,696.56
+8,275.00
+14,700.00
+135,487.32
+Foreign currency
+assets
+13,495.91
+12,932.26
+2,992.89
+13,794.28
+4,609.15
+5,091.85
+11,792.57
+4,328.34
+6,159.55
+1,009.88
+262.38
+76,469.06
+Foreign currency
+liabilities
+1,708.83
+2,839.29
+1,998.94
+4,627.61
+4,122.61
+3,216.50
+7,835.14
+6,589.03
+7,514.11
+872.68
+7,042.73
+48,367.47
+* The amounts represented include Foreign Currency Balances.
+Classification of assets and liabilities under the maturity buckets is based on the same estimates and assumptions as used by the Bank for compiling the return submitted to the RBI.
+Maturity profile of foreign currency assets and liabilities excludes off-balance sheet items.
+For the year ended March 31, 2022
+Schedules to the Financial Statements

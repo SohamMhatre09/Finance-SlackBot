@@ -1,0 +1,111 @@
+Schedules to the Consolidated Financial Statements
+For the year ended March 31, 2022
+15 Commission, exchange and brokerage income
+Commission, exchange and brokerage income is net of correspondent bank charges.
+16 Provisions and contingencies
+The break-up of 'Provisions and Contingencies' included in the Profit and Loss Account is given below:
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Provision for income tax - Current
+14,324.66
+12,336.79
+- Deferred
+(1,602.18)
+(1,397.41)
+Provision for NPAs1
+12,500.86
+13,574.54
+Provision for diminution in value of non-performing investments
+6.18
+(17.32)
+Provision for standard assets
+1,264.03
+875.22
+Other provisions and contingencies2
+4,154.19
+4,407.85
+Total
+30,647.74
+29,779.67
+1. Includes loss on sale of NPAs / stressed assets.
+2. Includes provisions for tax, legal and other contingencies ₹ 4,159.90 crore (previous year: ₹ 4,406.30 crore), provisions / (write back) for securitised-
+out assets ₹ 0.14 crore (previous year: ₹ (2.21) crore) and standard restructured assets ₹ (5.85) crore (previous year: ₹ 3.77 crore).
+17 Employee benefits
+Gratuity
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Reconciliation of opening and closing balance of the present value of the
+defined benefit obligation
+Present value of obligation as at April 1
+1,017.22
+851.66
+Interest cost
+62.82
+52.16
+Current service cost
+129.44
+114.56
+Benefits paid
+(76.95)
+(49.15)
+Actuarial (gain) / loss on obligation:
+Experience adjustment
+(49.72)
+41.30
+Assumption change
+7.78
+6.69
+Present value of obligation as at March 31
+1,090.59
+1,017.22
+Reconciliation of opening and closing balance of the fair value of the plan assets
+Fair value of plan assets as at April 1
+834.44
+577.97
+Expected return on plan assets
+57.01
+44.05
+Contributions
+163.30
+138.48
+Benefits paid
+(76.95)
+(49.15)
+Actuarial gain / (loss) on plan assets:
+Experience adjustment
+22.14
+107.65
+Assumption change
+1.97
+15.44
+Fair value of plan assets as at March 31
+1,001.91
+834.44
+Amount recognised in Balance Sheet
+Fair value of plan assets as at March 31
+1,001.91
+834.44
+Present value of obligation as at March 31
+(1,090.59)
+(1,017.22)
+Asset / (liability) as at March 31
+(88.68)
+(182.78)
+Expenses recognised in Profit and Loss Account
+Interest cost
+62.82
+52.16
+Current service cost
+129.44
+114.56
+Expected return on plan assets
+(57.01)
+(44.05)
+Net actuarial (gain) / loss recognised in the year
+(66.05)
+(75.10)
+346

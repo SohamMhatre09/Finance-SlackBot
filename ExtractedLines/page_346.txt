@@ -1,0 +1,106 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+Experience adjustment
+(₹ crore)
+Particulars
+Years ended March 31,
+2022
+2021
+2020
+2019
+2018
+Plan assets
+0.88
+0.33
+9.51
+21.95
+31.30
+Defined benefit obligation
+88.02
+89.99
+64.15
+69.54
+73.06
+Surplus / (deficit)
+(87.14)
+(89.66)
+(54.64)
+(47.59)
+(41.76)
+Experience adjustment gain / (loss) on plan
+assets
+0.39
+(0.20)
+0.28
+0.48
+0.59
+Experience adjustment (gain) / loss on plan
+liabilities
+6.44
+31.41
+9.06
+3.32
+3.95
+Amortisation of expenditure on account of enhancement in family pension of employees of banks
+The Reserve Bank of India, vide its notification dated October 04, 2021 granted Banks an option to amortise the expenditure
+on account of enhancement of family pension, over a period not exceeding five years beginning with the financial year ending
+March 31, 2022, subject to a minimum of one-fifth of the total amount involved being expensed every year. The Bank has not
+availed the said option and has recognised the entire expenditure on account of enhancement of family pension in financial
+year ended March 31, 2022.
+Provident fund
+The guidance note on AS-15, Employee Benefits, states that employer established provident funds, where interest is guaranteed
+are to be considered as defined benefit plans and the liability has to be valued. The Institute of Actuaries of India (IAI) has issued
+a guidance note on valuation of interest rate guarantees on exempt provident funds. The actuary has accordingly valued the
+same and the Bank held a provision of Nil as at March 31, 2022 (previous year: Nil), towards the present value of the guaranteed
+interest benefit obligation. The actuary has followed the deterministic approach as prescribed by the guidance note.
+Assumptions:
+Particulars
+March 31, 2022
+March 31, 2021
+Discount rate (GOI security yield)
+6.80% per annum
+6.50% per annum
+Expected guaranteed interest rate
+8.10% per annum
+8.50% per annum
+The Group does not have any unfunded defined benefit plan. The Group contributed ₹ 630.61 crore (previous year: ₹ 542.78
+crore) to the provident fund and ₹ 6.08 crore (previous year: ₹ 4.96 crore) to the National Pension Scheme (for employees who
+opted). The Bank contributed ₹ 76.37 crore (previous year: ₹ 75.64 crore) to the superannuation plan.
+Leave encashment
+HDFC Securities Limited
+The actuarial liability of compensated absences of accumulated privileged and sick leaves of the employees of the entity is
+given below:
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Privileged leave
+6.93
+6.16
+Sick leave
+1.14
+1.00
+Total actuarial liability
+8.07
+7.16
+Assumptions
+Discount rate
+6.05% per annum
+6.20% per annum
+Salary escalation rate
+10.02% per annum
+7.86% per annum
+The estimates of future salary increases, considered in actuarial valuation, take account of inflation, seniority, promotion and
+other relevant factors.
+HDFC Bank Limited Integrated Annual Report 2021-22 349

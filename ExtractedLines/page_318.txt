@@ -1,0 +1,109 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+the VCF in its financial statements. Units are valued based
+on the latest audited financials of the VCF if available or at
+₹ 1 per VCF as per the RBI guidelines.
+Pass Through Certificates (PTC) including Priority Sector-
+PTCs are valued by using FIMMDA credit spread as
+applicable for the NBFC category, based on the credit rating
+of the respective PTC over the YTM rates for government
+of India securities published by FBIL with FIMMDA as the
+calculating agent.
+Net depreciation, if any, compared to the acquisition cost,
+in any of the six groups, is charged to the Profit and Loss
+Account. The net appreciation, if any, in any of the six groups
+is not recognised except to the extent of depreciation
+provided earlier. The book value of individual securities is
+not changed on such revaluation of investments.
+Investments classified under HTM category are carried
+at their acquisition cost and not marked to market. Any
+premium on acquisition is amortised over the remaining
+maturity period of the security on a constant yield to
+maturity basis. Such amortisation of premium is adjusted
+against interest income from investments. Any diminution,
+other than temporary, in the value of investments in HTM
+category is provided for.
+Non-performing investments are identified and provision
+are made thereon based on the RBI guidelines. The
+provision on such non-performing investments are not set
+off against the appreciation in respect of other performing
+investments. Interest on non-performing investments is not
+recognised until received.
+Repurchase and reverse repurchase transactions:
+Repurchase (Repo) and reverse repurchase (Reverse
+Repo) transactions are reflected as borrowing and lending
+transactions respectively.
+Borrowing cost on repo transactions is accounted as
+interest expense and revenue on reverse repo transactions
+is accounted as interest income.
+HDFC Securities Limited
+Investments that are readily realisable and are intended
+to be held for not more than one year from the date, on
+which such investments are made, are classified as current
+investments. All other investments are classified as long
+term investments. Current investments are carried at cost
+or fair value, whichever is lower. Long-term investments are
+carried at cost. However, provision for diminution is made
+to recognise a decline, other than temporary, in the value
+of the investments, such reduction being determined and
+made for each investment individually.
+HDB Financial Services Limited
+Investments expected to mature after twelve months are
+taken as long term / non-current investment and stated
+at cost. Provision is recognised only in case of diminution,
+which is other than temporary in nature. Investments
+maturing within three months from the date of acquisition
+are classified as cash equivalents if they are readily
+convertible into cash. All other investments are recognised
+as short term / current investments and are valued at lower
+of cost and net realisable value.
+2
+Advances
+HDFC Bank Limited
+Classification:
+Advances are classified as performing and non-performing
+based on the RBI guidelines and are stated net of bills
+rediscounted, inter-bank participation with risk, specific
+provisions, interest in suspense for non-performing
+advances, claims received from Credit Guarantors,
+provisions for funded interest term loan and provision for
+diminution in the fair value of restructured assets.
+Provisioning:
+Specific loan loss provisions in respect of non-performing
+advances are made based on management's assessment
+of the degree of impairment of advances, subject to the
+minimum provisioning prescribed by the RBI.
+The specific provision for retail non-performing assets are
+also based on the nature of product and delinquency levels.
+Specific loan loss provisions in respect of non-performing
+advances are included under Provisions and Contingencies.
+Non-performing advances are written-off in accordance
+with the Bank's policy. Recoveries from bad debts written-
+off are included under other income.
+In relation to derivative contracts, with non-performing
+borrowers, the Bank makes provision for the entire amount
+of overdue and future receivables relating to positive
+marked to market value of the said derivative contracts.
+The Bank maintains general provision for standard assets
+including credit exposures computed as per the current
+marked to market values of interest rate and foreign
+exchange derivative contracts and gold. In the case of
+overseas branches, general provision on standard assets
+is maintained at the higher of the levels stipulated by the
+respective overseas regulator or RBI. Provision for standard
+assets is included under other liabilities.
+In addition to the above, the Bank on a prudent basis
+makes provisions on advances or exposures which are not
+NPAs, but has reasons to believe on the basis of the extant
+HDFC Bank Limited Integrated Annual Report 2021-22 321

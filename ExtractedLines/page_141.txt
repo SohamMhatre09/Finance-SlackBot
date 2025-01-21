@@ -1,0 +1,92 @@
+Directors' Report
+Initiatives such as DR Resiliency and the Bank's Hybrid
+Cloud Strategy continue to fortify its IT infrastructure and
+architecture backbone.
+Focus on its digital programs will pave the way for the Bank to
+create next level neo-banking experiences for its customers.
+From shaping new customer journeys to introducing best-in-
+class products and services, transformation and innovation shall
+be at the forefront.
+Key initiatives in this space are:
+· Vyapar: Digital onboarding of merchants for payment
+acceptance and servicing of banking transactions for the
+merchant community
+· API based digital journeys for the auto industry:
+Launched a digital API platform for auto financing
+· PayZapp 2.0: Enhanced experience of app customers
+to onboard, auto-link HDFC Bank cards, wallet and limit
+management, transaction display via rich statement
+· Wealth management system: A new wealth management
+app with client self-profiling, goal setting, mutual fund order
+execution and portfolio re-balancing
+· SME customer experience transformation: New
+technology to support business volume at larger scale,
+revamp the entire SME customer experience across
+commercial and retail business lines
+· Biz Express: A new web portal for SME segments
+covering digital on-boarding, managing their multiple
+accounts, making payments with hierarchy, raising GST
+compliant invoices for payment, multiple collection modes,
+raise service requests online etc.
+Your Bank has taken multiple steps to ensure that its robust,
+scalable and secure technology set-up is strengthened even
+further. The Bank continues to rigorously monitor the progress
+against commitments to the regulator.
+To this effect, significant strides were taken in the following
+technology areas:
+1. Implementation of a landing zone for Hyperscalers
+Your Bank has invested in a hybrid-cloud approach with the
+leading cloud service partners i.e, AWS, Azure and GCP. A
+common landing zone has been implemented across these
+partners to create a secure and streamlined environment for all
+cloud deployments in the future. The landing zone also enables
+the Bank's agenda of imbibing agility and DevSecOps in the
+technology and digital transformation journey.
+2. Capacity Upgrades
+The capacity management program has made significant
+inroads to ensure capacity planning and management are
+commensurate with the rapid business growth witnessed by
+the Bank. Strengthening of capacity management practices
+has culminated into a threshold of 70 per cent across key
+parameters such as user concurrency, utilisation of database,
+server, storage, network and security devices. This has resulted
+in planned capacity upgrades of critical applications such as:
+. 90,000 concurrent users capacity for using NetBanking
+and MobileBanking.
+· The foundations of the banking platform being upgraded
+along with modernisation of 300+ services. This enhances
+the Bank's scalability and capacity to cater to triple the
+load of UPI transactions. Successfully managing over
+45 crore bank customer transactions per month which
+had doubled in the last 12 months. Your Bank has already
+been ranked among the top players as published in NPCI's
+UPI performance metrics dashboard. Overall, the Bank's
+average customer uptime was 99.94 per cent.
+The senior management and the Board continue to keep strong
+focus on capacity, performance, scalability and availability of the
+Bank's critical applications.
+3. DR and Resiliency
+The Bank has notably intensified the rigour in its DR drills
+for critical applications and will continue to further work on
+strengthening its DR processes and capabilities as outlined and
+communicated in its periodic submissions. The pivotal enablers
+in this journey are:
+· A rigorous focus on reducing RTO for key applications
+to 40-60 minutes, which has been completed for 56
+key applications
+· Deep automation to improve configuration drift management
+between primary and DR sites
+· Enrichment of existing automation tools for DR to cover all
+DR scenarios and reduce the RTO time further
+· Refactoring key applications into an 'Hot DR' / 'Active-
+Active' design
+4. Migration of the Primary Data Centre
+Your Bank embarked on a journey to fully migrate and consolidate
+its primary data centre to state-of-the-art facilities in Mumbai
+and Bengaluru partnering with Sify and NTT. A systematic plan
+helped achieve 100 per cent migration of production applications
+in November 2021 followed by 100 per cent migration of UAT
+applications in March 2022. Further, a phase-wise plan is in
+place to migrate the Bank's Chandivali, Mumbai data centre to
+the NTT facility over the next 6 months.
+144

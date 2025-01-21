@@ -1,0 +1,75 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+Our BCP is based on regulatory guidelines, ISO22301:2019 certified, and is subject to regular reviews. We have a
+Business Continuity Policy and Procedure with clearly defined roles and responsibility.
+Business Continuity - Scope & Governance Framework
+Approach towards emergency, disaster & crisis
+management
+A
+Business continuity
+Manage continuity of critical business operations and
+accelerated resumption of services after a disaster
+Emergency response
+Deal with site-level emergency at an office or a branch
+involving life safety issues like fire, bomb threats, and so on
+IT disaster recovery
+Recover critical business applications during hardware/
+network/power failure
++
+Pandemic response
+Facilitate an organised and speedy response to any pandemic
+situation that threatens the safety of the Bank's employees
+and/or disrupts the Bank's critical business functions
+Crisis management
+Tackle bank-wide disasters such as pandemic, terrorist
+attacks, ransomware attacks, fire, cyclone, earthquake, city-
+level floods, cyber-attacks and data centre outages, among
+others
+BCP: Governance
+and management
+Our central Business
+Continuity Office works
+towards strengthening
+the business
+continuity preparedness
+BCP is managed by the
+Information Security
+Group and governed by
+the Business Continuity
+Steering Committee
+This committee is
+chaired by the Chief Risk
+Officer (CRO)
+The committee's other
+representatives are
+selected from the senior
+management team
+Scope of BCP
+Retail Branch Banking
+5
+PhoneBanking
+Payments Business &
+DBC Risk Control
+Retail Portfolio
+Management -
+Credit Cards
+Wholesale
+Banking Operations
+₹
+Retail
+Banking Operations
+®
+Treasury Operations
+HDFC Bank Limited Integrated Annual Report 2021-22
+53

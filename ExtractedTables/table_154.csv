@@ -1,0 +1,8 @@
+Nature,Nos.,Notional principal,Benchmark,Terms
+Trading,1,91.25,GBP LIBOR,Fixed receivable v/s floating payable
+Trading,1,91.25,GBP LIBOR,Floating receivable v/s fixed payable
+Trading,2,37.77,EURIBOR,Fixed receivable v/s floating payable
+Trading,6,316.46,EURIBOR,Floating receivable v/s fixed payable
+Trading,84,"9,350.78",USD LIBOR,Fixed receivable v/s floating payable
+Trading,227,"25,206.95",USD LIBOR,Floating receivable v/s fixed payable
+Total,,"35,094.46",,

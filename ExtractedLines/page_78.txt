@@ -1,0 +1,115 @@
+Digitisation
+Digital Future-ready Bank
+Intellectual Capital
+HDFC Bank has always been
+at the forefront of innovation
+in the Indian financial
+services industry. Under our
+technology transformation
+agenda, we are investing to
+'Run the Bank' as well as
+'Build a Future-ready Bank'.
+We are also strengthening
+our digital backbone to create
+differentiated, secure offerings
+for the tech-savvy customer
+backed by a core technology
+that is always 'ON'.
+Underpinning our technology
+transformation agenda is our vision
+to provide the most preferred 'neo-
+banking' experience to our customers.
+We design products that make banking
+simple, easy and highly secure.
+At the core of this agenda is building
+future-ready competencies. We are
+strengthening our capabilities under
+Digital Factory, Enterprise Factory and
+Enterprise IT.
+Building Digital Factory and
+Enterprise Factory
+Our Factory approach focuses
+on innovation-at-scale in the co-
+creation of Tech Intellectual Property
+45 Cr
+BANK CUSTOMER TRANSACTIONS
+PER MONTH, DOUBLED IN THE
+LAST 12 MONTHS.
+(IP) to develop and offer best-in-
+class products and services to our
+customers. Agile and Development-
+Security-Operations (DevSecOps)
+principles and cloudification of our tech
+stack are pivotal accelerators of our
+transformation agenda.
+Initiatives such as DR Resiliency and
+our Hybrid Cloud Strategy continue
+to fortify our IT infrastructure and
+architecture backbone.
+99.94%
+AVERAGE CUSTOMER UPTIME
+90,000
+CONCURRENT USERS
+CAPACITY FOR USING NET
+AND MOBILEBANKING
+Key initiatives undertaken
+Infrastructure scalability
+We have invested in a hybrid-cloud
+approach with leading cloud service
+partners such as AWS, Azure and
+GCP. A common landing zone has
+been implemented across these
+partners to create a secure and
+streamlined environment for all cloud
+deployments. We have moved our
+primary data centers to state-of-the-
+art facilities in Mumbai and Bengaluru
+to ensure a robust IT infrastructure to
+back our digital offerings and ensure
+higher uptimes across customer
+touchpoints.
+Capacity upgrades
+Capacity management practices
+have been significantly strengthened
+to ensure close monitoring of peak
+volumes across key performance
+parameters. We have established a
+Technology Obsolescence Program
+Management Office to track, manage
+and replace/upgrade obsolete
+components in a timely manner.
+Disaster recovery resilience
+We are moving to the next level
+of Disaster Recovery (DR) with
+automation and implementation of
+'Hot DR'/Active - active setup for key
+applications.
+Minimised surface area for
+cyber-attacks
+We have made significant
+advancements to further consolidate
+cyber security through initiatives
+such as the foundation of a next-gen
+Security Operations Center (SOC)
+for predictive security and incident
+management, introduction of SOAR
+(Security Orchestration, Automation &
+Response) to reduce incident response
+times, network micro-segmentation
+for better control, visibility and
+preparedness against ransomware,
+and round-the-clock defacement
+monitoring and vulnerability
+management of our internet properties.
+Looking ahead
+We are now fully geared to launch
+our next phase of strategic digital
+& technology programs. Significant
+inroads are being made through
+initiatives such as Customer
+Experience Hub, a revamped
+Payments and Wallet experience
+and refreshed offerings for
+MSME and Wealth Management
+customers.
+78

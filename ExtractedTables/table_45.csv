@@ -1,0 +1,9 @@
+II. Expected life,1 to 6 years
+III. Expected volatility,23.86 percent to 38.70 percent
+IV. Expected dividends,0.21 percent to 0.52 percent
+V. The price of the underlying share in the market at the time of option grant,"The market price per share was ₹ 1,426.45 and ₹ 1,518.05 at the time of grant of options under ESOS XXXVI and ESOS XXXVII respectively."
+VI. The weighted average market price of Bank's shares on NSE at the time of option grant,"₹ 1,422.61 and ₹1,524.49 at the time of grant of options under ESOS XXXVI and ESOS XXXVII respectively."
+VII. Method used and assumptions made to incorporate effects of expected early exercise,The Black-Scholes model is used to calculate the fair value of options at the time of grant.
+"VIII. How expected volatility was determined, including explanation of the extent to which expected volatility was based on historical volatility",Stock expected volatility is completely based on GARCH volatility forecasting model using historical stock prices from the market.
+"IX. Whether and how any other features of the option grant were incorporated into the measurement of fair value, such as a market condition
+:selected:",Stock price and risk free interest rate are variables based on actual market data at the time of ESOP valuation.

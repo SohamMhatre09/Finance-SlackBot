@@ -1,0 +1,10 @@
+Nature,Nos.,Notional principal,Benchmark,Terms
+Trading,1,60.05,GBP SONIA,Fixed receivable v/s floating payable
+Trading,1,60.05,GBP SONIA,Floating receivable v/s fixed payable
+Trading,4,161.22,EURIBOR,Fixed receivable v/s floating payable
+Trading,8,434.95,EURIBOR,Floating receivable v/s fixed payable
+Trading,42,"5,742.58",USD LIBOR,Fixed receivable v/s floating payable
+Trading,205,"24,189.96",USD LIBOR,Floating receivable v/s fixed payable
+Trading,4,463.50,USD SOFR,Fixed receivable v/s floating payable
+Trading,16,"1,979.35",USD SOFR,Floating receivable v/s fixed payable
+Total,,"33,091.66",,

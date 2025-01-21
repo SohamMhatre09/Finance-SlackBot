@@ -1,0 +1,97 @@
+Schedules to the Consolidated Financial Statements
+For the year ended March 31, 2022
+based on historical volatility of similar listed enterprises. The various assumptions considered in the pricing model for the stock
+options granted by the Company are:
+Particulars
+ESOP-13A
+ESOP-14
+Dividend yield
+0.00%
+0.00%
+Expected volatility
+59.89%
+56.24%
+Risk-free interest rate
+5.35%
+5.41%
+Expected life of the option
+4.10 years
+4.10 years
+8
+Other liabilities
+The Bank has presented gross unrealised gain on foreign exchange and derivative contracts under other assets and
+gross unrealised loss on foreign exchange and derivative contracts under other liabilities. Accordingly, other liabilities as at
+March 31, 2022 include unrealised loss on foreign exchange and derivative contracts of ₹ 7,464.74 crore (previous year:
+₹ 8,127.65 crore).
+9
+Investments
+HDFC Bank Limited
+The details of securities that are kept as margin are as under:
+(₹ crore)
+Sr.
+No.
+Particulars
+Face value as at March 31,
+2022
+2021
+I.
+Securities kept as margin with Clearing Corporation of India towards:
+a) Collateral and funds management - Securities segment
+5,300.00
+2,120.00
+b) Collateral and funds management - Tri-party Repo
+59,013.79
+62,361.84
+c) Default fund - Forex Forward segment
+235.10
+150.00
+d) Default fund - Forex Settlement segment
+51.05
+51.05
+e) Default fund - Rupee Derivatives (Guaranteed Settlement) segment
+65.65
+48.00
+f) Default fund - Securities segment
+65.00
+65.00
+g) Default fund - Tri-party repo segment
+55.00
+50.00
+II.
+Securities kept as margin with the RBI towards:
+a) Real Time Gross Settlement (RTGS)
+50,539.64
+51,725.77
+b) Repo transactions
+49,971.80
+49,959.91
+III.
+Securities kept as margin with National Securities Clearing Corporation of India
+(NSCCIL) towards NSE Currency Derivatives segment.
+107.72
+107.72
+IV.
+Securities kept as margin with Indian Clearing Corporation Limited towards BSE
+Currency Derivatives segment.
+161.00
+161.00
+V.
+Securities kept as margin with Metropolitan Clearing Corporation of India towards
+MCX Currency Derivatives segment.
+13.00
+13.00
+HDFC Securities Limited
+(₹ crore)
+Sr.
+No.
+Particulars
+Face value as at March 31,
+2022
+2021
+I.
+Mutual funds marked as lien with stock exchange for margin requirement
+200.00
+200.00
+HDB Financial Services Limited
+The Company has not placed any securities as margin during the year (previous year: Nil).
+338

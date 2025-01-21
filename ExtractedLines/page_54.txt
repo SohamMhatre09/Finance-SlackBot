@@ -1,0 +1,128 @@
+Business Continuity Management, Information
+& Cyber Security Practices
+Robust information and cyber security practices for an uninterrupted
+march towards rapid digitisation
+Governance over Data
+As a responsible banker cyber security,
+and data privacy are of paramount
+importance to us. To manage these
+risks, we have constituted an IT
+Strategy Committee, Information
+Security Committee in addition to
+the Information Security Group with
+specific roles and responsibilities. We
+also have in place a cybersecurity
+framework and an information security
+programme. We undertake stringent
+processes and measures such as
+vulnerability management processes
+that actively scan for security threats,
+logging and monitoring procedures
+to deal with network intrusions and
+incidents. There were no incidents of
+data breaches In FY22.
+We adhere to the 'Code of Bank's
+Commitment to Customers' as
+prescribed by the Banking Codes
+and Standards Board of India
+(BCSBI) and Employee and Customer
+Awareness Procedures, to ensure
+customer privacy and are guided by
+our Information Security Policy and
+Cyber Security Policy, which is at par
+with global standards in information
+security.
+Further we have an independent
+assurance team within Internal
+Audit which provides assurance
+on the management of information
+technology-related risks.
+IT Strategy Committee
+This committee looks into various
+technology related aspects. The
+functions of the Committee are to
+formulate IT strategy and related policy
+documents, ensure that IT strategy
+is aligned with business strategy.
+The committee comprises majorly of
+independent directors and includes an
+external information technology expert.
+Information Security Committee
+This Committee is chaired by the CRO
+(Chief Risk Officer) and is responsible
+to assess, accept and sponsor
+company-wide security investments.
+It provides a forum to discuss
+information security risks and acts as
+a custodian for the enterprise security
+programme. The committee meets
+on a quarterly basis with participation
+from IT, Business Operations, Audit,
+and the Information Security Group.
+Information Security Programme
+This programme is based on regulatory
+requirements (RBI Gopalakrishnan
+committee report) and industry
+standards (ISO 27001:2013 and NIST
+800-53). Our cybersecurity framework
+consists of components such as
+Identify, Protect, Detect, Respond,
+and Recover which remind us of how
+important it is to balance proactive
+safeguards while preparing for worst-
+case scenarios.
+Key objectives of the programme include:
+· Documenting, disseminating,
+operating, and reviewing information
+security policies, and procedures
+· Monitoring cyber security threats
+and reviewing the risk profile across
+all critical assets, infrastructure
+components and business units/
+departments
+· Providing transparency into the
+information security programme
+and associated controls to senior
+management including board
+· Responding promptly to information
+security incidents and policy
+violations/exceptions in accordance
+with organisational policy
+· Determining whether the actions
+taken to resolve an incident were
+effective and whether corrective
+actions are required, and
+documenting lessons learnt
+Key measures undertaken by
+us, to mitigate information
+security related risks are:
+Antivirus/Malware Programme
+We have implemented a programme
+to prevent, detect and react to
+the introduction of malicious code
+through sources such as computer
+viruses, worms, and Trojans. We use a
+combination of commercially available
+and proprietary tools and monitoring
+systems to mitigate the risks
+associated with malware. The antivirus
+signatures are updated more than
+once per day to stay current and cover
+workstations, servers, email gateways,
+web gateways.
+Network Security
+The Bank uses a combination of
+firewalls and proxy servers to separate
+and control traffic between networks
+with different security requirements
+and levels of trust. The Bank has
+intrusion detection/prevention
+capabilities in place to detect and react
+to known attacks in real time. IDS/IPS
+signatures are updated periodically to
+update detections for specific threats,
+intruder profiles, and attack patterns.
+These tools are configured to generate
+alerts when predefined thresholds are
+exceeded.
+54

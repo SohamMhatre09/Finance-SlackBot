@@ -1,0 +1,107 @@
+Directors' Report
+7) Internal Controls, Audit and Compliance
+Your Bank has put in place extensive internal controls and
+processes to mitigate Operational Risks, including centralised
+operations and 'segregation of duty' between the front office
+and back office. The front-office units usually act as customer
+touch-points and sales and service outlets while the back-office
+carries out the entire processing, accounting and settlement
+of transactions in the Bank's core banking system. The policy
+framework, definition and monitoring of limits is carried out by
+various mid-office and risk management functions. The credit
+sanctioning and debt management units are also segregated
+and do not have any sales and operations responsibilities.
+Your Bank has set up various executive-level committees, with
+participation from various business and control functions, that
+are designed to review and oversee matters pertaining to capital,
+assets and liabilities, business practices and customer service,
+Operational Risk, information security, business continuity
+planning and internal risk-based supervision among others. The
+second line of defense functions set standards and lay down
+policies and procedures by which the business functions manage
+risks, including compliance with applicable laws, compliance
+with regulatory guidelines, adherence to operational controls and
+relevant standards of conduct. At the ground level, your Bank has
+a mix of preventive and detective controls implemented through
+systems and processes, ensuring a robust framework in your
+Bank to enable correct and complete accounting, identification
+of outliers (if any) by the Management on a timely basis for
+corrective action and mitigating Operational Risks.
+Your Bank has put in place various preventive controls:
+(a) Limited and need-based access to systems by users
+(b) Dual custody over cash and near-cash items
+(c)
+Segregation of duty in processing of transactions vis-à-vis
+creation of user IDs
+(d)
+Segregation of duty in processing of transactions vis-à-vis
+monitoring and review of transactions/reconciliation
+(e)
+Four eye principle (maker-checker control) for processing
+of transactions
+(f)
+Stringent password policy
+(g)
+Booking of transactions in core banking system mandates
+the earmarking of line/limit (fund as well as non-fund based)
+assigned to the customer
+(h)
+STP processes between core banking system and payment
+interface systems for transmission of messages
+(i)
+Additional authorisation leg in payment interface systems
+in applicable cases
+(i)
+Audit logs directly extracted from systems
+(k)
+Empowerment grid
+Your Bank also has detective controls in place:
+(a)
+Periodic review of user IDs
+(b)
+Post-transaction monitoring at the back-end by way of call
+back process (through daily log reports) by an independent
+person, i.e., to ascertain that entries in the core banking
+system/messages in payment interface systems are based
+on valid/authorised transactions and customer requests
+(i)
+Daily tally of cash and near-cash items at end of day
+(ii)
+Reconciliation of Nostro accounts (by an independent
+team) to ascertain and match-off the Nostro credits
+and debits (External or Internal) regularly to avoid /
+identify any unreconciled/unmatched entries passing
+through the system
+(c)
+Reconciliation of all Suspense Accounts and establishment
+of responsibility in case of outstanding
+(d) Independent and surprise checks periodically by supervisors
+Your Bank has an Internal Audit Department which is responsible
+for independently evaluating the adequacy and effectiveness of
+all internal controls, risk management, governance systems and
+processes and is manned by appropriately qualified personnel.
+This department adopts a risk-based audit approach and carries
+out audits across various businesses i.e. Retail, Wholesale and
+Treasury (for India and Overseas books), audit of Operations units,
+Management and Thematic audits, Information Security audit,
+Revenue audit and Concurrent audit in order to independently
+evaluate the adequacy and effectiveness of internal controls on
+an ongoing basis and pro-actively recommending enhancements
+thereof. The Internal Audit Department, during the course of audit,
+also ascertains the extent of adherence to regulatory guidelines,
+legal requirements and operational processes and provides
+timely feedback to the Management for corrective actions. A
+strong oversight on the operations is also kept through off-site
+monitoring by use of data analytics to study trends/patterns to
+detect outliers (if any) and alert the Management.
+The Internal Audit Department also independently reviews
+your Bank's implementation of Internal Rating Based (IRB)-
+approach for calculation of capital charge for Credit Risk, the
+appropriateness of your Bank's ICAAP, as well as evaluates the
+quality and comprehensiveness of your Bank's disaster recovery
+and business continuity plans and also carries out management
+self-assessment of adequacy of the Bank's internal financial
+controls and operating effectiveness of such controls in terms of
+Sarbanes Oxley (SOX) Act and Companies Act, 2013. The Internal
+Audit Department plays an important role in strengthening of the
+150

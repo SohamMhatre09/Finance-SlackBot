@@ -1,0 +1,109 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+As on March 31, 2022, your Bank's ratio of Gross Non Performing
+Assets (GNPAs) to Gross Advances was 1.17 per cent. Net Non-
+performing Assets (Gross Non-Performing Assets Less Specific
+Loan Loss provisions) was 0.32 per cent of Net Advances.
+Your Bank has a conservative and prudent policy for specific
+provisions on NPAs. Its provision for NPAs is higher than the
+minimum regulatory requirements and adheres to the regulatory
+norms for Standard Assets.
+Digital and Credit Risk
+Driven by rapid advancements in technology, digitalisation is
+increasingly becoming a key differentiator for customer retention
+and service delivery in the banking sector. Digital lending enables
+customers to secure loans at the click of a button in a matter of
+minutes, if not seconds. However, there are also attendant risks
+associated with it and your Bank has put in place appropriate
+checks and balances to manage these risks. Such loans are
+sanctioned primarily to your Bank's existing customers. Often,
+they are customers across multiple products, thus enabling the
+Bank ready access to their credit history and risk profile. This
+facilitates evaluation on their loan eligibility. Besides, most of the
+credit checks and scores used by your Bank in process- based
+underwriting are replicated for digital loans. The Bank has an
+independent model validation unit that minutely assesses the
+models used to generate the credit scores for such loans. These
+models are monitored, reviewed periodically, back tested and
+corrective action is taken whenever needed.
+Market Risk
+Market Risk arises largely from your Bank's statutory reserve
+management and trading activity in interest rates, equity and
+currency market. These risks are managed through a well-
+defined Board approved Market Risk Policy, Investment Policy,
+Foreign Exchange Trading Policy and Derivatives Policy that
+caps risk in different trading desks or various securities through
+trading risk limits/triggers. The risk measures include position
+limits, tenor restrictions, sensitivity limits, namely, PV01, Modified
+Duration of Hold to Maturity Portfolio and Option Greeks, Value-
+at-Risk (VaR) Limit, Stop Loss Trigger Level (SLTL), Scenario
+based P&L Triggers, Potential Loss Trigger Level (PLTL), and
+are monitored on an end-of-day basis. In addition, forex open
+positions, currency option delta and interest rate sensitivity
+limits are computed and monitored on an intraday basis. This
+is supplemented by a Board-approved stress testing policy
+and framework that simulates various market risk scenarios
+to measure losses and initiate remedial measures. The Market
+Risk capital charge of your Bank is computed on a daily basis
+using the Standardised Measurement Method applying the
+regulatory factors.
+Liquidity Risk
+Liquidity risk is the risk that the Bank may not be able to
+meet its financial obligations as they fall due without incurring
+unacceptable losses. Your Bank's framework for liquidity and
+interest rate risk management is spelt out through a well-defined
+Board approved Asset Liability Management Policy. As part of
+this process, your Bank has established various Board-approved
+limits, both for liquidity risk and interest rate risk in banking book.
+Implementation of the policy, monitoring of limits is reviewed by
+the Asset Liability Committee (ALCO). While the maturity gap,
+Basel III ratios and stock ratio limits help manage liquidity risk,
+Net Interest Income and market value impacts help mitigate
+interest rate risk. This is reinforced by a comprehensive Board-
+approved stress testing programme covering both liquidity and
+interest rate risk.
+Your Bank conducts various studies to assess the behavioural
+pattern of non-contractual assets and liabilities and embedded
+options available to customers, which are used while managing
+maturity gaps and repricing risk. Further, your Bank also has the
+necessary framework in place to manage intraday liquidity risk.
+The Liquidity Coverage Ratio (LCR), a global standard, is also
+used to measure your Bank's liquidity position. LCR seeks to
+ensure that the Bank has an adequate stock of unencumbered
+High-Quality Liquid Assets (HQLA) that can be converted into
+cash easily and immediately to meet its liquidity needs under
+a 30-day calendar liquidity stress scenario. Based on Basel III
+norms, your Bank's average LCR stood at 121.16 per cent on
+a consolidated basis for FY 2021-22 as against the regulatory
+threshold at 100 per cent.
+Average Liquidity Coverage Ratio
+121.16 per cent
+on a consolidated basis for FY 2021-22
+The Net Stable Funding Ratio (NSFR), a key liquidity risk measure
+under BCBS liquidity standards, is also used to measure your
+Bank's liquidity position. The NSFR seeks to ensure that
+your Bank maintains a stable funding profile in relation to the
+composition of its assets and off-balance sheet activities. The
+RBI guidelines stipulated a minimum NSFR requirement of 100
+per cent at a consolidated level with effect from October 1, 2021.
+Your Bank has maintained the NSFR well above 100 per cent
+since its implementation. Based on guidelines issued by RBI,
+your Bank's NSFR stood at 124.00 per cent on a consolidated
+basis at March 31, 2022.
+Operational Risk
+This is the risk of loss resulting from inadequate or failed internal
+processes, people and systems or from external events. It also
+includes risk of loss due to legal risk.
+HDFC Bank Limited Integrated Annual Report 2021-22
+147

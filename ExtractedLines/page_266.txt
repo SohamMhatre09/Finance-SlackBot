@@ -1,0 +1,132 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+23. Provisions and contingencies
+The break-up of 'Provisions and Contingencies' included in the Profit and Loss Account is given below:
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Provision for income tax - Current
+13,346.03
+11,644.77
+- Deferred
+(1,291.91)
+(1,102.31)
+Provision for NPAs1
+10,119.38
+11,450.19
+Provision for diminution in value of non-performing investments
+(14.52)
+(16.82)
+Provision for standard assets
+1,257.85
+866.63
+Other provisions and contingencies2
+3,699.12
+3,402.85
+Total
+27,115.95
+26,245.31
+1.
+Includes loss on sale of NPAs / stressed assets.
+2.
+Includes provisions for tax, legal and other contingencies ₹ 3,704.83 crore (previous year: ₹ 3,401.29 crore), provisions / (write-back) for
+securitised-out assets ₹ 0.14 crore (previous year: ₹ (2.21) crore) and standard restructured assets ₹ (5.85) crore (previous year: ₹ 3.77 crore).
+24 Employee benefits
+Gratuity
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Reconciliation of opening and closing balance of the present value of the defined
+benefit obligation
+Present value of obligation as at April 1
+857.58
+725.87
+Interest cost
+56.41
+45.94
+Current service cost
+109.39
+100.50
+Benefits paid
+(56.13)
+(38.21)
+Actuarial (gain) / loss on obligation:
+Experience adjustment
+(65.14)
+26.48
+Assumption change
+8.32
+(3.00)
+Present value of obligation as at March 31
+910.43
+857.58
+Reconciliation of opening and closing balance of the fair value of the plan assets
+Fair value of plan assets as at April 1
+743.24
+514.93
+Expected return on plan assets
+53.26
+40.89
+Contributions
+131.14
+104.45
+Benefits paid
+(56.13)
+(38.21)
+Actuarial gain / (loss) on plan assets:
+Experience adjustment
+21.96
+105.74
+Assumption change
+1.97
+15.44
+Fair value of plan assets as at March 31
+895.44
+743.24
+Amount recognised in Balance Sheet
+Fair value of plan assets as at March 31
+895.44
+743.24
+Present value of obligation as at March 31
+(910.43)
+(857.58)
+Asset / (liability) as at March 31
+(14.99)
+(114.34)
+Expenses recognised in Profit and Loss Account
+Interest cost
+56.41
+45.94
+Current service cost
+109.39
+100.50
+Expected return on plan assets
+(53.26)
+(40.89)
+Net actuarial (gain) / loss recognised in the year
+(80.75)
+(97.70)
+Net cost
+31.79
+7.85
+Actual return on plan assets
+77.19
+162.07
+Estimated contribution for the next year
+148.57
+131.14
+HDFC Bank Limited Integrated Annual Report 2021-22
+269

@@ -1,0 +1,72 @@
+Independent Auditor's Report
+Identification of Non-performing advances (NPA) and provisioning on advances:
+Total Loans and Advances (Net of Provision) as at March 31, 2022: ₹ 1,368,821 Crores
+Provision for NPA as at March 31, 2022: ₹ 11,733 Crores
+(Refer Schedule 9, Schedule 17(C)(2), Schedule 18(13)
+Key Audit Matter
+How our audit addressed the key audit matter
+The Reserve Bank of India's ("RBI") guidelines on Income recognition,
+asset classification and provisioning ("IRACP") prescribe the prudential
+norms for the identification and classification of non-performing assets
+("NPA") and the minimum provision required for such assets.
+Tested the design and operating effectiveness of key controls (including
+application controls) over approval, recording, monitoring, and recovery
+of loans, monitoring overdue / stressed accounts, identification of NPA,
+provision for NPA, and valuation of security including collateral.
+The Bank is required to have Board approved policy as per IRACP
+guidelines for NPA identification and provision.
+Testing of Application controls includes testing of automated controls,
+reports and system reconciliations.
+The Bank is also required to apply its judgment to determine the
+identification and provision required against NPAs by applying
+quantitative as well as qualitative factors. The risk of identification of
+NPAs is affected by factors like stress and liquidity concerns in certain
+sectors.
+The provision on NPA is estimated based on ageing and classification
+of NPAs, recovery estimates, nature of loan product, value of security
+and other qualitative factors and is subject to the minimum provisioning
+norms specified by RBI and approved policy of the Bank in this regard.
+Evaluated the governance process and tested controls over calculations
+of provision on non-performing advances, basis of provisioning in
+accordance with the Board approved policy.
+Selected the borrowers based on quantitative and qualitative risk factors
+for their assessment of appropriate classification as NPA including
+computation of overdue ageing to assess its correct classification and
+provision amount as per extant IRACP norms and Bank policy.
+Performed other substantive procedures including but not limited to
+the following:
+Additionally, the Bank makes provisions on exposures that are not
+classified as NPAs including advances to certain sectors and identified
+advances or group advances that can potentially slip into NPA. These
+are classified as contingency provisions.
+· Selected samples of performing loans and assessed independently
+as to whether those should be classified as NPA;
+. For samples selected examined the security valuation, financial
+statements and other qualitative information of the borrowers;
+The Management of the Bank also makes an assessment of the impact
+on borrowers' accounts which were restructured as per RBI Circulars
+issued to provide relief to the borrowers.
+Since the identification of NPAs and provisioning for advances require
+a significant level of estimation and given its significance to the overall
+audit including possible observation by RBI which could result into
+disclosure in the financial statements, we have ascertained identification
+and provisioning for NPAs as a key audit matter.
+· Considered the accounts reported by the Bank and other Banks as
+Special Mention Accounts ("SMA") in RBI's Central Repository of
+Information on Large Credits (CRILC) to identify stress;
+. For selected samples assessed independently accounts that can
+potentially be classified as NPA and Red Flagged Accounts;
+· Performed inquiries with the credit and risk departments to ascertain
+if there were indicators of stress or an occurrence of an event of
+default in a particular loan account or any product category which
+needed to be considered as NPA;
+. Held specific discussions with the management of the Bank on
+sectors where there is perceived credit risk and the steps taken to
+mitigate the risks to identified sectors;
+· Selected and tested samples of accounts which were restructured
+under MSME restructuring circular and Resolution Framework for
+COVID-19 related stress circular for their compliance with the RBI
+directions; and
+. Assessed the adequacy of disclosures against the relevant
+accounting standards and RBI requirements relating to NPAs.
+212

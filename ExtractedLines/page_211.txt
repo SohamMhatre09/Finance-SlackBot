@@ -1,0 +1,65 @@
+Independent Auditor's Report
+Information Technology ("IT") Systems and Controls
+Key Audit Matter
+How our audit addressed the key audit matter
+The Bank has a complex IT architecture to support its day-to-day
+business operations. High volume of transactions are processed and
+recorded on single or multiple applications.
+The reliability and security of IT systems plays a key role in the business
+operations of the Bank. Since large volume of transactions are
+processed daily, the IT controls are required to ensure that applications
+process data as expected and that changes are made in an appropriate
+manner.
+Our Audit procedures with respect to this matter included:
+For testing the IT general controls, application controls and IT dependent
+manual controls, we involved specialists as part of the audit. The team
+also assisted in testing the accuracy of the information produced by the
+Bank's IT systems.
+Obtained a comprehensive understanding of IT applications
+implemented at the Bank. It was followed by process understanding,
+mapping of applications to the same and understanding financial risks
+Appropriate IT general controls and application controls are required to
+ensure that such IT systems are able to process the data, as required,
+completely, accurately and consistently for reliable financial reporting.
+We have identified 'IT systems and controls' as key audit matter because
+of the high level automation, significant number of systems being used
+by the management and the complexity of the IT architecture and its
+impact on the financial reporting system.
+posed by people-process and technology.
+Key IT audit procedures includes testing design and operating
+effectiveness of key controls operating over user access management
+(which includes user access provisioning, de-provisioning, access
+review, password configuration review, segregation of duties and
+privilege access), change management (which include change release
+in production environment are compliant to the defined procedures
+and segregation of environment is ensured), program development
+(which include review of data migration activity), computer operations
+(which includes testing of key controls pertaining to, backup, Batch
+processing (including interface testing), incident management and data
+centre security), System interface controls. This included testing that
+requests for access to systems were appropriately logged, reviewed
+and authorized.
+In addition to the above, the design and operating effectiveness of
+certain automated controls, that were considered as key internal system
+controls over financial reporting were tested. Using various techniques
+such as inquiry, review of documentation / record / reports, observation
+and re-performance. We also tested few controls using negative testing
+technique. We had taken adequate samples of instances for our test.
+Tested compensating controls and performed alternate procedures,
+where necessary. In addition, understood where relevant, changes
+made to the IT landscape during the audit period.
+Information Other than the Standalone Financial Statements and Auditor's Report Thereon
+The Bank's Board of Directors is responsible for the other information. The other information comprises the information in the Basel
+III - Pillar 3 disclosures and graphical representation of financial highlights but does not include the financial statements and our
+auditor's reports thereon, which we obtained prior to the date of this auditor's report, and the Annual Report, which is expected to
+be made available to us after that date.
+Our opinion on the standalone financial statements does not cover the other information and we do not express any form of
+assurance conclusion thereon.
+In connection with our audit of the standalone financial statements, our responsibility is to read the other information and, in doing so,
+consider whether the other information is materially inconsistent with the standalone financial statements or our knowledge obtained
+in the audit or otherwise appears to be materially misstated. If, based on the work we have performed on the other information that
+we obtained prior to the date of this auditor's report, we conclude that there is a material misstatement of this other information,
+we are required to report that fact. We have nothing to report in this regard.
+When we read the Annual Report, if we conclude that there is a material misstatement therein, we are required to communicate
+the matter to Those Charged with Governance.
+214

@@ -1,0 +1,83 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+improve the banking sector's ability to absorb shocks arising from financial and economic stress, whatever the source, thus
+reducing the risk of spillover from the financial sector to the real economy.
+The Liquidity Risk Management of the Bank is governed by the Asset Liability Management (ALM) Policy approved by the Board.
+The Asset Liability Committee (ALCO) is a decision making unit responsible for implementing the liquidity and interest rate risk
+management strategy of the Bank in line with its risk management objectives and ensures adherence to the risk tolerance /
+limits set by the Board. In order to determine cash outflows, the Bank segregates its deposits into various customer segments,
+viz. Retail (which include deposits from individuals), Small Business Customers (those with deposits upto ₹ 7.5 crore), and
+Wholesale (which would cover all residual deposits). Within Wholesale, deposits that are attributable to clearing, custody, and
+cash management services are classified as Operational Deposits. Other contractual funding, including a portion of other
+liabilities which are expected to run down in a 30 day time frame are included in the cash outflows. These classifications, based
+on extant regulatory guidelines, are part of the Bank's LCR framework, and are also submitted to the RBI.
+The LCR is calculated by dividing a Bank's stock of HQLA by its total net cash outflows over a 30 day stress period. The
+guidelines for LCR were effective January 1, 2015, with the minimum requirement at 60% which have risen in equal annual
+steps to reach 100% on January 1, 2019. This graduated approach was designed to ensure that the LCR could be introduced
+without material disruption to the orderly strengthening of banking systems or the ongoing financing of economic activity. The
+present requirement, as on March 31, 2022 is 100%.
+In the Indian context, the run-off factors for the stressed scenarios are prescribed by the RBI, for various categories of liabilities
+(viz., deposits, unsecured and secured wholesale borrowings), undrawn commitments, derivative-related exposures, and
+offset with inflows emanating from assets maturing within the same time period. Given below is a table of run-off factors and
+the average LCR maintained by the Bank quarter-wise over the past two years:
+Particulars
+Run-off factors
+Retail Deposits
+5% - 10%
+Small Business Customers
+5% - 10%
+Operational deposits
+5% - 25%
+Non-financial corporates, sovereigns, central banks, multilateral development banks, and PSEs
+40%
+Other legal entities
+100%
+Quarter ended
+LCR Maintained
+(Average)
+LCR Required
+March 31, 2022
+111.89%
+100.00%
+December 31, 2021
+122.71%
+100.00%
+September 30, 2021
+122.78%
+100.00%
+June 30, 2021
+125.62%
+100.00%
+March 31, 2021
+137.24%
+90.00%
+December 31, 2020
+144.40%
+90.00%
+September 30, 2020
+152.43%
+80.00%
+June 30, 2020
+139.65%
+80.00%
+The average LCR for the quarter ended March 31, 2022 was at 111.89% as against 137.24% for the quarter ended March 31,
+2021, and above the present prescribed minimum requirement of 100%. The average HQLA for the quarter ended March 31,
+2022 was ₹ 385,997.51 crore, as against ₹ 387,444.92 crore for the quarter ended March 31, 2021. During the same period
+the composition of government securities and treasury bills in the HQLA was at 89.04% as compared to 89.49% in the
+previous year.
+For the quarter ended March 31, 2022, derivative exposures (net of cash inflows) / collateral requirements and undrawn
+commitments constituted just about 0.58% and 2.51% respectively of average cash outflow. The Bank has consistently
+maintained a robust funding profile with a significant portion of funding through deposits. As of March 31, 2022 the top 20
+depositors comprised of 4% of total deposits indicating a healthy and stable deposit profile.
+HDFC Bank Limited Integrated Annual Report 2021-22 289

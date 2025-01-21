@@ -1,0 +1,117 @@
+Schedules to the Consolidated Financial Statements
+For the year ended March 31, 2022
+Sr.
+No.
+Particulars
+Treasury
+Retail
+banking
+Wholesale
+banking
+Other banking
+operations
+Total
+7
+Income tax expense
+(including deferred tax)
+10,939.37
+8
+Net profit (5) - (6) - (7)
+31,856.77
+9
+Segment assets
+519,641.74
+521,997.22
+628,731.57
+119,752.20
+1,790,122.73
+10
+Unallocated assets
+9,383.91
+11
+Total assets (9) + (10)
+1,799,506.64
+12
+Segment liabilities
+76,276.60
+1,096,217.82
+338,115.31
+51,771.65
+1,562,381.38
+13
+Unallocated liabilities
+26,682.31
+14
+Total liabilities (12) + (13)
+1,589,063.69
+15
+Capital employed (9) - (12)
+(Segment assets - Segment
+liabilities)
+443,365.14
+(574,220.60)
+290,616.26
+67,980.54
+227,741.34
+16
+Unallocated (10) - (13)
+(17,298.39)
+17
+Total (15) + (16)
+210,442.95
+18
+Capital expenditure
+24.93
+1,527.55
+139.94
+180.60
+1,873.02
+19
+Depreciation
+36.74
+1,047.40
+118.18
+182.69
+1,385.01
+20
+Provisions for non - performing
+assets / others*
+(16.82)
+10,157.54
+2,279.02
+6,389.39
+18,809.13
+21
+Unallocated other provisions*
+31.16
+* Represents material non-cash charge other than depreciation and taxation.
+Geographic segments:
+(₹ crore)
+Particulars
+Domestic
+International
+Revenue
+154,953.30
+931.97
+Assets
+1,755,919.75
+43,586.89
+Capital expenditure
+1,872.61
+0.41
+19
+Related party disclosures
+As per AS-18, Related Party Disclosures read with RBI Master Direction on Financial Statements - Presentation and Disclosures,
+the Group's related parties are disclosed below:
+Promoter
+Housing Development Finance Corporation Limited
+Key management personnel
+Sashidhar Jagdishan, Managing Director and Chief Executive Officer
+Kaizad Bharucha, Executive Director
+Relatives of key management personnel and their interested entities
+Nagsri Sashidhar, Jagdishan Chandrasekharan, Dhruv Sashidhar, Mythra Mahesh, Mahesh Babu Ramamurthy, Havovi
+Bharucha, Huzaan Bharucha, Danesh Bharucha, Daraius Bharucha, Dilnaaz D Bharucha, Nagsri - Creating Special Memories.
+A specific related party transaction is a significant transaction wherever it exceeds 10% of all related party transactions in that
+category. Transactions between the Bank and Housing Development Finance Corporation Limited exceed 10% of all related
+party transactions in that category.
+352

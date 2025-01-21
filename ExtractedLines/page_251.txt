@@ -1,0 +1,104 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+crystallisation of the exposure. Appropriate credit covenants are stipulated where required, as trigger events to call for collaterals
+or terminate a transaction and contain the risk. Further, to mitigate the current exposure in non-centrally cleared forex and
+derivative transactions, Bank has entered into Credit Support Annex ('CSA') agreements with some of the major international
+counterparty banks and few Indian financial institutions.
+The Bank, at the minimum, conforms to the RBI guidelines with regard to provisioning requirements. Overdue receivables
+representing crystallised positive mark to market value of a derivative contract are transferred to the account of the borrower
+and treated as non-performing assets, if these remain unpaid for 90 days or more. Full provision is made for the entire amount
+of overdue and future receivables relating to positive marked to market value of non-performing derivative contracts.
+· Quantitative disclosure on risk exposure in derivatives
+₹ crore)
+Sr.
+No.
+Particulars
+Currency derivatives
+Interest rate derivatives
+March 31, 2022
+March 31, 2021
+March 31, 2022
+March 31, 2021
+1 Derivatives (notional principal amount)
+a) Hedging
+7,579.25
+-
+-
+-
+b) Trading
+62,860.03
+40,074.83
+519,322.30
+317,629.80
+2 Marked to market positions
+a) Asset (+)
+1,108.41
+922.74
+3,019.64
+3,253.93
+b) Liability (-)
+(672.91)
+(594.51)
+(2,764.49)
+(3,395.30)
+c) Net
+435.50
+328.23
+255.15
+(141.37)
+3 Credit exposure
+3,983.65
+3,077.28
+6,896.91
+5,423.27
+4 Likely impact of one percentage change in interest rate
+(100*PV01) **
+a) On hedging derivatives
+2.82
+-
+-
+-
+b) On trading derivatives
+49.06
+32.08
+501.21
+187.97
+5 Maximum of 100*PV01 observed during the year **
+a) On hedging*
+5.05
+-
+-
+-
+b) On trading
+57.78
+43.07
+527.62
+187.97
+6 Minimum of 100*PV01 observed during the year **
+a) On hedging*
+1.97
+-
+-
+-
+b) On trading
+33.04
+18.83
+272.28
+0.34
+* Computed for the month end dates where hedge deals were outstanding.
+** Amounts given are absolute values on a net basis, excluding currency options.
+As at March 31, 2022, the notional principal amount of outstanding foreign exchange contracts classified as trading amounted to ₹ 655,187.18
+crore (previous year: ₹ 496,472.67 crore). There were no foreign exchange contracts classified as hedging outstanding as at March 31, 2022
+(previous year: Nil).
+The notional principal amounts of derivatives reflect the volume of transactions outstanding as at the Balance Sheet date and do not represent
+the amounts at risk.
+v For the purpose of this disclosure, currency derivatives include currency options purchased and sold and cross currency swaps.
+v For the purpose of this disclosure, interest rate derivatives include interest rate swaps, forward rate agreements and interest rate caps and floors.
+The Bank has computed the maximum and minimum of PV01 for the year based on the balances as at the end of every month.
+In respect of derivative contracts, the Bank has computed the exposure under the Current Exposure Method for counterparty credit risk capital
+computation based on the guidelines issued by RBI on "Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines"
+dated March 30, 2021. However, for the purpose of calculating product-wise derivative exposure as mentioned in point number 3 in table above,
+bank has calculated using Current Exposure Method ('CEM') without netting benefits and the balance outstanding as on March 31, 2022.
+12. Credit default swaps
+The Bank has not transacted in credit default swaps during the year ended March 31, 2022 (previous year: Nil).
+254

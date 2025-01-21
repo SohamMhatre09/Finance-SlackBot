@@ -1,0 +1,62 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+The Bank's derivative transactions relate to sales and trading activities. Sale activities include the structuring and marketing of
+derivatives to customers to enable them to hedge their market risks (both interest rate and exchange risks), within the regulatory
+framework as applicable from time to time. The Bank deals in derivatives on its own account (trading activity) principally for the
+purpose of generating a profit from short term fluctuations in price yields or implied volatility. The Bank also deals in derivatives
+to hedge the risk embedded in some of its Balance Sheet assets or liabilities.
+Constituents involved in derivative business
+The Treasury front-office enters into derivative transactions with customers and inter-bank counterparties. The Bank has an
+independent back-office and mid-office as per regulatory guidelines. The Bank has credit risk and market risk departments, as
+part of the Risk Management Group, that assesses counterparty credit risk and market risk limits, within the risk architecture
+and processes of the Bank.
+Derivative policy
+The Bank has in place a Derivative policy which covers various aspects that apply to the functioning of the derivative business.
+The derivative business is administered through various market risk limits such as position limits, tenor limits, sensitivity limits,
+scenario based profit and loss limit for option portfolio, stop loss trigger levels and value-at-risk limits that are recommended
+by the Risk Policy and Monitoring Committee ('RPMC') to the Board of Directors for approval. All methodologies that are used
+to assess market and credit risks for derivative transactions are specified by the credit risk and market risk units. Limits are
+monitored on a daily basis by the mid-office.
+The Bank has a Board approved policy on Customer Suitability & Appropriateness, which forms part of the Derivative policy, to
+ensure that derivative transactions entered into are appropriate and suitable to the customer's nature of business / operations.
+Before entering into a derivative deal with a customer, the Bank scores the customer on various risk parameters and based
+on the overall score level it determines the kind of product that best suits its risk appetite and the customer's requirements.
+Classification of derivatives book
+The derivative book is classified into trading and hedging book. Classification of the derivative book is made on the basis of
+the definitions of the trading and hedging specified in the RBI guidelines. The trading book is managed within the trading limits
+recommended by the RPMC and approved by the Board of Directors.
+Hedging policy
+For derivative contracts designated as hedging instruments, the Bank documents, at inception of the hedge, the relationship
+between the hedging instrument and the hedged item, the risk management objective for undertaking the hedge and the
+methods used to assess the hedge effectiveness. Hedge effectiveness is ascertained at the time of inception of the hedge
+and periodically thereafter. Hedge effectiveness is measured by the degree to which changes in the fair value or cash flows
+of the hedged item that are attributable to a hedged risk are offset by changes in the fair value or cash flows of the hedging
+instrument using various qualitative and quantitative methods.
+The hedging book consists of transactions to hedge Balance Sheet assets or liabilities. The tenor of hedging instrument may be
+less than or equal to the tenor of underlying hedged asset or liability. The Bank as part of its risk management strategy, makes
+use of financial derivative instruments, including foreign exchange forward contracts, for hedging the risk embedded in some
+of its financial assets or liabilities recognised on the balance sheet. In case of a fair value hedge, the changes in the fair value
+of the hedging instruments and hedged items are recognised in the Profit and Loss Account and in case of cash flow hedges
+other than for foreign exchange forward contracts, the changes in fair value of effective portion are recognised in Reserves
+and Surplus under 'Cash flow hedge reserve' and ineffective portion of an effective hedging relationship, if any, is recognised
+in the Profit and Loss Account. The accumulated balance in the cash flow hedge reserve, in an effective hedging relationship,
+is recycled in the Profit and Loss Account at the same time that the impact from the hedged item is recognised in the Profit
+and Loss Account. Foreign exchange forward contracts not intended for trading, that are entered into to establish the amount
+of reporting currency required or available at the settlement date of a transaction, and are outstanding at the Balance Sheet
+date, are effectively valued at the closing spot rate. The premia or discount arising at the inception of such forward exchange
+contract is amortised as expense or income over the life of the contract.
+. Provisioning, collateral and credit risk mitigation
+The Bank enters into derivative transactions with counterparties based on their business ranking and financial position.
+The Bank sets up appropriate limits upon evaluating the ability of the counterparty to honour its obligations in the event of
+HDFC Bank Limited Integrated Annual Report 2021-22 253

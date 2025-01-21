@@ -1,0 +1,88 @@
+Overview
+Introduction to
+HDFC Bank
+Our
+Performance
+How We
+Create Value
+Our
+Strategy
+Responsible
+Business
+Statutory Reports and
+Financial Statements
+Vulnerability management
+The Bank administrates a vulnerability
+management process that actively
+scans for security threats. The
+vulnerability management team
+is responsible for tracking and
+following up on vulnerabilities. Once a
+vulnerability requiring remediation has
+been identified, it is logged, prioritised
+according to severity, and assigned an
+owner. The vulnerability management
+team tracks such issues and follows
+up frequently until they can verify that
+the issues have been remediated.
+Patch management
+The Bank has patch management
+processes and tools to assess
+and deploy operating system and
+application specific patches and
+updates. This process includes steps
+to evaluate vendor supplied patches to
+determine servers that require patches
+and updates, to document procedures
+for patching and updating servers,
+and to deploy patches and updates in
+a timely manner to protect the Bank's
+infrastructure.
+Penetration testing
+To test for potential vulnerabilities,
+penetration tests are conducted for all
+critical networks and systems within
+the Bank's internal environment and
+for external applications. Penetration
+tests are triggered based on several
+events, including new releases,
+updates, or enhancements. The types
+of penetration tests that are conducted
+include Network/Host Penetration
+Testing and Application Penetration
+Testing.
+Logging and monitoring
+The Bank has a logging and monitoring
+procedure in place to deal with
+network intrusions and incidents. User
+actions, system activity and changes
+to the infrastructure are logged. Logs
+are stored securely and are protected
+against modification, deletion, and
+inappropriate access. The relative
+risk level of the asset and alerts are
+generated in the event of audit log
+failures. Monitoring tools aggregate the
+log files and suspicious activity events
+are automatically reported to the SOC
+(Security Operations Centre) team.
+The SOC team performs the following
+steps:
+· Analysis and Incident Detection -
+The SOC team collects information
+from the system generated event as
+well as other information sources to
+identify a potential incident
+· Event Tracking and Escalation -
+Events are assessed based on the
+level of risk and escalated based
+on guidance from the Incident
+Management policy; escalations
+include referral to the CIRT for in-
+depth analysis and forensics and
+management for situation awareness
+· Reporting - The CSOC team
+periodically reports on events and
+incidents to management
+HDFC Bank Limited Integrated Annual Report 2021-22
+55

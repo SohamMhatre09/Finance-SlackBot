@@ -1,0 +1,131 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+Particulars
+March 31, 2022
+March 31, 2021
+Assumptions
+Discount rate
+6.80% per annum
+6.50% per annum
+Expected return on plan assets
+6.50% per annum
+6.50% per annum
+Salary escalation rate
+7.00% per annum
+7.00% per annum
+The estimates of future salary increases, considered in actuarial valuation, take account of inflation, seniority, promotion and
+other relevant factors.
+Expected rate of return on investments is determined based on the assessment made by the Bank at the beginning of the
+year with regard to its existing portfolio. Major categories of plan assets as a percentage of fair value of total plan assets are
+given below:
+Category of plan assets
+% of fair value to total plan assets
+as at March 31, 2022
+as at March 31, 2021
+Government securities
+28.80%
+27.90%
+Debenture and bonds
+24.52%
+26.04%
+Equity shares
+40.40%
+41.23%
+Others
+6.28%
+4.83%
+Total
+100.00%
+100.00%
+Experience adjustment
+(₹ crore)
+Particulars
+Years ended March 31,
+2022
+2021
+2020
+2019
+2018
+Plan assets
+895.44
+743.24
+514.93
+501.71
+416.40
+Defined benefit obligation
+910.43
+857.58
+725.87
+617.96
+542.97
+Surplus / (deficit)
+(14.99)
+(114.34)
+(210.94)
+(116.25)
+(126.57)
+Experience adjustment gain / (loss) on plan
+assets
+21.96
+105.74
+(64.41)
+11.70
+0.13
+Experience adjustment (gain) / loss on plan
+liabilities
+(65.14)
+26.48
+(8.46)
+7.12
+10.44
+Pension
+(₹ crore)
+Particulars
+March 31, 2022
+March 31, 2021
+Reconciliation of opening and closing balance of the present value of the
+defined benefit obligation
+Present value of obligation as at April 1
+89.99
+64.15
+Interest cost
+5.19
+3.79
+Current service cost
+1.40
+1.37
+Past service cost
+7.69
+-
+Benefits paid
+(20.43)
+(11.63)
+Actuarial (gain) / loss on obligation:
+Experience adjustment
+6.44
+31.41
+Assumption change
+(2.26)
+0.90
+Present value of obligation as at March 31
+88.02
+89.99
+Reconciliation of opening and closing balance of the fair value of the plan
+assets
+Fair value of plan assets as at April 1
+0.33
+9.51
+Expected return on plan assets
+0.04
+0.32
+Contributions
+20.70
+2.30
+Benefits paid
+(20.43)
+(11.63)
+Actuarial gain / (loss) on plan assets:
+Experience adjustment
+0.39
+(0.20)
+270

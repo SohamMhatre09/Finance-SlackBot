@@ -1,0 +1,60 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+· Exchange traded interest rate derivatives
+(₹ crore)
+Sr.
+No.
+Particulars
+March 31, 2022
+March 31, 2021
+i)
+The total notional principal amount of exchange traded interest rate derivatives
+undertaken during the years reported
+Nil
+Nil
+ii) The total notional principal amount of exchange traded interest rate derivatives
+outstanding
+Nil
+Nil
+iii) The notional principal amount of exchange traded interest rate derivatives
+outstanding and not 'highly effective'
+N.A.
+N.A.
+iv) Mark to market value of exchange traded interest rate derivatives outstanding and
+not 'highly effective'
+N.A.
+N.A.
+· Qualitative disclosures on risk exposure in derivatives
+Overview of business and processes
+Derivatives are financial instruments whose characteristics are derived from underlying assets, or from interest rates, exchange
+rates or indices. These include forwards, swaps, futures and options. The notional amounts of financial instruments such as
+foreign exchange contracts and derivatives provide a basis for comparison with the instruments recognised on the Balance
+Sheet but do not necessarily indicate the amounts of future cash flows involved or the current fair value of the instruments and,
+therefore, do not indicate the Bank's exposure to credit or price risks. The following sections outline the nature and terms of
+the derivative transactions generally undertaken by the Bank.
+Interest rate contracts
+Forward rate agreements give the buyer the ability to determine the underlying rate of interest for a specified period
+commencing on a specified future date (the settlement date). The underlying rate of interest could be an interest rate curve,
+interest rate index or bond yield. There is no exchange of principal and settlement is effected on the settlement date. The
+settlement amount is the difference between the contracted rate and the market rate prevailing on the settlement date
+discounted for the interest period of the agreement.
+Interest rate swaps involve the exchange of interest obligations with the counterparty for a specified period without
+exchanging the underlying (or notional) principal.
+Interest rate caps and floors give the buyer the ability to fix the maximum or minimum rate of interest. The writer of
+the contract pays the amount by which the market rate exceeds or is less than the cap rate or the floor rate respectively.
+A combination of interest rate caps and floors can create structures such as interest rate collar, cap spreads and floor spreads.
+Interest rate futures are standardised interest rate derivative contracts traded on a recognised stock exchange to buy or
+sell a notional security or any other interest bearing instrument or an index of such instruments or interest rates at a specified
+future date, at a price determined at the time of the contract.
+Exchange rate contracts
+Forward foreign exchange contracts are agreements to buy or sell fixed amounts of currency at an agreed exchange rate
+on a future date. These instruments are carried at fair value, determined based on either FEDAI rates or market quotations.
+Cross currency swaps are agreements to exchange principal amounts denominated in different currencies. Cross currency
+swaps may also involve the exchange of interest payments on one specified currency for interest payments in another specified
+currency for a specified period.
+Currency options (including Exchange Traded Currency Option) give the buyer, on payment of a premium, the right but
+not an obligation, to buy or sell specified amounts of currency at an agreed exchange rate on or before a specified future date.
+Currency futures contract is a standardised contract traded on an exchange, to buy or sell a certain underlying currency
+on a certain date in the future, at a specified price. The contract specifies the rate of exchange between one unit of currency
+with another.
+252

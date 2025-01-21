@@ -1,0 +1,102 @@
+Schedules to the Financial Statements
+As at March 31, 2022
+of overdue and future receivables relating to positive
+marked to market value of the said derivative contracts.
+The Bank maintains general provision for standard assets
+including credit exposures computed as per the current
+marked to market values of interest rate and foreign
+exchange derivative contracts and gold. In the case of
+overseas branches, general provision on standard assets
+is maintained at the higher of the levels stipulated by the
+respective overseas regulator or RBI. Provision for standard
+assets is included under other liabilities.
+In addition to the above, the Bank on a prudent basis
+makes provisions on advances or exposures which are not
+NPAs, but has reasons to believe on the basis of the extant
+environment or specific information or basis regulatory
+guidance / instructions, of a possible slippage of a specific
+advance or a group of advances or exposures or potential
+exposures. These are classified as contingent provisions
+and included under other liabilities.
+Provisions made in addition to the Bank's policy for specific
+loan loss provisions for non-performing assets, possible
+slippage of specific exposures and regulatory general
+provisions are categorised as floating provisions. Creation
+of floating provisions is considered by the Bank up to a level
+approved by the Board of Directors. Floating provisions
+are used only for contingencies under extraordinary
+circumstances and for making specific provisions for non-
+performing accounts. Floating provisions are included
+under other liabilities.
+Further to the provisions required to be held according
+to the asset classification status, provisions are held for
+individual country exposures (other than for home country
+exposure). Countries are categorised into risk categories
+as per Export Credit Guarantee Corporation of India Ltd.
+('ECGC') guidelines and provisioning is done in respect of
+that country where the net funded exposure is one percent
+or more of the Bank's total assets. Provision for country risk
+is included under other liabilities.
+In accordance with the RBI guidelines on the prudential
+framework for resolution of stressed assets and the
+resolution frameworks for COVID-19 related stress and
+its Board approved policy, the Bank has implemented
+resolution plans for eligible borrowers. The asset
+classification and necessary provisions thereon are done
+in accordance with the said RBI guidelines.
+3
+Securitisation and transfer of assets
+Assets transferred through securitisation and direct
+assignment of cash flows are de-recognised in the Balance
+Sheet when they are sold (true sale criteria being fully met
+with) and consideration is received. Sales / transfers that do
+not meet true sale criteria are accounted for as borrowings.
+For a securitisation or direct assignment transaction, the
+Bank recognises profit upon receipt of the funds and loss
+is recognised at the time of sale.
+On sale of stressed assets, if the sale is at a price below
+the net book value (i.e., funded outstanding less specific
+provisions held), the shortfall is charged to the Profit and
+Loss Account and if the sale is for a value higher than the
+net book value, the excess provision is credited to the
+Profit and Loss Account in the year when the sum of cash
+received by way of initial consideration and / or redemption
+or transfer of security receipts issued by SC / RC exceeds
+the net book value of the loan at the time of transfer.
+In respect of stressed assets sold under an asset
+securitisation, where the investment by the bank in security
+receipts (SRs) backed by the assets sold by it is more than
+10 percent of such SRs, provisions held are higher of the
+provisions required in terms of net asset value declared by the
+Securitisation Company ('SC') / Reconstruction Company
+('RC') and provisions as per the extant norms applicable to
+the underlying loans, notionally treating the book value of
+these SRs as the corresponding stressed loans assuming
+the loans remained in the books of the Bank.
+The Bank invests in Pass Through Certificates (PTCs)
+issued by other Special Purpose Vehicles (SPVs). These
+are accounted at acquisition cost and are classified as
+investments. The Bank also buys loans through the direct
+assignment route which are classified as advances. These
+are carried at acquisition cost unless it is more than the
+face value, in which case the premium is amortised based
+on effective interest rate method.
+The Bank transfers advances through inter-bank
+participation with and without risk. In the case of participation
+with risk, the aggregate amount of the participation issued
+by the Bank is reduced from advances. In case where
+the Bank is assuming risk by participation, the aggregate
+amount of the participation is classified under advances.
+In the case of issue of participation certificate without
+risk, the aggregate amount of participation issued by the
+Bank is classified under borrowings and where the Bank
+is acquiring participation certificate, the aggregate amount
+of participation acquired is shown as due from banks
+under advances.
+4
+Fixed assets and depreciation
+Fixed assets are stated at cost less accumulated
+depreciation as adjusted for impairment, if any. Cost
+includes cost of purchase and all expenditure like site
+preparation, installation costs and professional fees
+232

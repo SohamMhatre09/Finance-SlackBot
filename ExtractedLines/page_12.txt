@@ -1,0 +1,89 @@
+Statutory Reports and
+Financial Statements
+Responsible
+Business
+Our
+Strategy
+How We
+Create Value
+Our
+Performance
+Introduction to
+HDFC Bank
+Overview
+I am happy to inform you that thanks to the progress we
+have made on our technology investments, processes and
+governance, the regulatory actions have been fully lifted. We
+converted the challenge into an opportunity and have made
+substantial strides in the way we evaluate, manage and
+operationalise our technology. To enable the infusion of a
+modern technology platform one needs to lay a very strong
+foundation and we have done that over the last one year,
+through a series of technology-led initiatives that include
+i) changes at the foundational level ii) creating new digital
+solutions iii) modernising the core.
+i)
+At the foundational level, we have
+A.
+Shifted our primary data centres to state-of-the-
+art brand-new facilities in Mumbai and Bengaluru,
+to support higher uptimes and create a robust IT
+backbone for our operations.
+B. A clearly defined capacity monitoring programme to
+proactively manage capacity upgrades across all key
+applications.
+C.
+A technology obsolescence programme management
+office to plan and replace obsolescent components.
+D. Started putting in place next-gen disaster recovery (DR)
+set up for key applications.
+E.
+Implemented landing zone architecture to leverage the
+cloud resilience, with elastic scalability, and at the same
+time have control over ecosystem on cloud.
+F.
+Implemented a new Application Programming Interface
+(API) gateway and a new API development framework.
+G.
+Kick-started modernisation of our data warehouse
+with a cloud-enabled data lake platform, that would
+enable us to leverage AI/ML models and new age deep
+learning capabilities on the rich data set that we have.
+ii) Creating new age solutions through Digital
+Factory
+A.
+Rebuilding of our acquisition journeys in partnership
+with a global technology leader in user experience. We
+have already built 10 new journeys and will be rapidly
+rolling out new journeys every 3 weeks. This includes
+journeys across account opening, loans and cards,
+covering both individual/MSME customers and both
+existing and new-to-bank customers.
+B.
+We have launched 'Xpress Car Loans' - an end-to-end
+digital car loan journey for existing customers as well as
+non-customers, that allows them to avail disbursement
+in 30 mins, with credit decisions based on speedy
+data analysis. This is a first in the Indian industry and
+the Bank has integrated its lending application with
+automobile dealers across the country.
+C.
+In the next few quarters, we will launch more of our
+products and services under Digital 2.0 including
+a new payments platform for our customers,
+payments platform for our merchants and a
+wealth platform - all in partnerships with new age
+tech companies.
+iii) Modernising the core
+The digital partnership strategy will help us to modernise
+existing experiences quickly without changing the legacy
+core. It is imperative that the Bank has a long-term vision on
+revamping its core banking and mobile channel experiences.
+Toward this we have created our 'Enterprise Factory'
+wherein the Bank's tech and digital teams work in a new
+age start-up like environment and co-create deep tech IP
+capabilities. This is a departure from the past where our
+technology IP was largely partner-owned and enabled. We
+believe that as banks become more digital, they also need
+HDFC Bank Limited Integrated Annual Report 2021-22
+11

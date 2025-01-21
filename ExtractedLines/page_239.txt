@@ -1,0 +1,85 @@
+Schedules to the Financial Statements
+For the year ended March 31, 2022
+· The following table summarises the information about stock options outstanding as at March 31, 2022:
+Plan
+Range of exercise
+price (₹)
+Number of shares
+arising out of options
+Weighted average life
+of options (in years)
+Weighted average
+exercise price (₹)
+Plan F
+417.75 to 731.08
+1,75,64,766
+1.07
+666.77
+Plan G
+882.85 to 1,516.95
+14,05,41,250
+2.70
+1,239.25
+· The following table summarises the information about stock options outstanding as at March 31, 2021:
+Plan
+Range of exercise
+price (₹)
+Number of shares
+arising out of options
+Weighted average life
+of options (in years)
+Weighted average
+exercise price (₹)
+Plan C
+417.75
+9,700
+0.32
+417.75
+Plan F
+417.75 to 731.08
+3,49,74,270
+1.48
+610.67
+Plan G
+882.85 to 1,235.80
+13,31,84,790
+3.18
+1,182.83
+In accordance with the RBI clarification dated August 30, 2021, the Bank has estimated the fair value of the options granted
+after March 31, 2021 using Black-Scholes model. This is recognised as compensation expense over the vesting period of the
+options with effect from April 01, 2021.
+The assumptions considered in the model for valuing the ESOPs granted during the year ended March 31, 2022 are given below:
+Particulars
+March 31, 2022
+Dividend yield
+0.21% to 0.52%
+Expected volatility
+23.86% to 38.70%
+Risk - free interest rate
+4.38% to 6.07%
+Expected life of the options
+1 to 6 Years
+8. Other liabilities
+· The Bank held provisions towards standard assets amounting to ₹ 6,562.60 crore as at March 31, 2022 (previous year:
+₹ 5,303.37 crore). These are included under other liabilities.
+Provision for standard assets is made @ 0.25% for direct advances to agriculture and Small and Micro Enterprises
+(SMEs) sectors, @ 1% for advances to commercial real estate sector, @ 0.75% for advances to commercial real
+estate - residential housing sector, @ 5% on restructured standard advances, @ 2% until after one year from the date
+on which the rates are reset at higher rates for housing loans offered at a comparatively lower rate of interest in the
+first few years and @ 2% on all exposures to the wholly owned step down subsidiaries of the overseas subsidiaries
+of Indian companies, sanctioned / renewed after December 31, 2015.
+Provision is maintained at rates higher than the regulatory minimum, on standard advances based on evaluation of
+the risk and stress in various sectors as per the policy approved by the Board of the Bank.
+In accordance with regulatory guidelines and based on the information made available by its customers to the Bank,
+for exposures to customers who have not hedged their foreign currency exposures, provision for standard assets
+is made at levels ranging up to 0.80% depending on the likely loss the entities could incur on account of exchange
+rate movements.
+Provision for standard assets of overseas branches is made at higher of rates prescribed by the overseas regulator
+or RBI.
+V For all other loans and advances including credit exposures computed as per the current marked to market values
+of interest rate and foreign exchange derivative contracts, provision for standard assets is made @ 0.40%.
+In accordance with RBI guidelines, an additional provision is made @ 3% on the incremental exposure to the
+"Specified Borrowers" (except NBFCs / HFCs) beyond normally permitted lending limit (NPLL) as defined by RBI.
+· Other liabilities include contingent provisions of ₹ 9,684.88 crore as at March 31, 2022 (previous year: ₹ 5,861.17 crore)
+in respect of advances.
+242
