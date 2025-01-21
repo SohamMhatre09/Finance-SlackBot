@@ -40,7 +40,7 @@ class LangChainRAG:
     ):
         self.tables_dir = tables_dir
         self.text_dir = text_dir
-        self.embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+        self.embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2") #Emddeing model
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.0-flash-exp",
             google_api_key=gemini_api_key,
@@ -119,8 +119,8 @@ class LangChainRAG:
         )
         
         self.retriever = vectorstore.as_retriever(
-            search_type="mmr",
-            search_kwargs={"k": 8}
+            search_type="mmr", # Maximal Marginal Relevance
+            search_kwargs={"k": 8} # Number of retrieved documents
         )
 
     def process_retrieved_docs(self, docs: List) -> Dict:
@@ -182,15 +182,22 @@ class LangChainRAG:
         
         # Create and execute prompt
         prompt = ChatPromptTemplate.from_messages([
-            ("system", """You're an analyst working with OCR-processed documents. Use the 
-             following context to answer. Tables may contain OCR errors - consider 
-             approximate values and multiple data sources. Pay special attention to 
-             numerical values with units like crores (cr) or percentages (%). Provide a 
-             concise and natural response without mentioning table names or technical 
-             details. Include a brief reasoning or explanation where appropriate.
-             
-             Context:
-             {context}"""),
+            ("system", """You're an expert analyst working with OCR-processed documents. Your task is to provide detailed, accurate, and well-reasoned answers based on the context provided. Follow these guidelines:
+
+    1. **Context Understanding**: Carefully analyze the context, which includes both tables and text lines. Tables may contain OCR errors, so consider approximate values and cross-reference multiple data sources when possible.
+
+    2. **Numerical Values**: Pay special attention to numerical values, especially those with units like crores (cr), percentages (%), or currency symbols. If there are discrepancies, mention them and provide a range or estimate.
+
+    3. **Reasoning**: Always include a brief reasoning or explanation for your answer. Explain how you arrived at the conclusion, referencing specific data points from the context.
+
+    4. **Detail**: Provide a detailed response that covers all relevant aspects of the question. If the question is complex, break down the answer into logical sections.
+
+    5. **Uncertainty Handling**: If the context is unclear or insufficient, state this explicitly and suggest what additional information might be needed to provide a more accurate answer.
+
+    6. **Natural Language**: Write in a natural, professional tone. Avoid mentioning table names or technical details unless absolutely necessary.
+
+    Context:
+    {context}"""),
             ("human", "Question: {question}")
         ])
         
@@ -201,7 +208,6 @@ class LangChainRAG:
             'answer': response,
             'context_used': processed_data
         }
-
 # Initialize RAG system
 rag_system = LangChainRAG(
     tables_dir="ExtractedTables",

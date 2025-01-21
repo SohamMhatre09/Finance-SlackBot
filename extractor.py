@@ -11,7 +11,7 @@ from azure.ai.documentintelligence.models import AnalyzeResult, AnalyzeDocumentR
 load_dotenv()
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Set your Azure endpoint and key
 endpoint = os.getenv("AZURE_ENDPOINT")
