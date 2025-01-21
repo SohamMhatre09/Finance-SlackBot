@@ -86,3 +86,6 @@ ngrok http 3000
 - Verify ngrok is running and the URL is properly configured in Slack
 - Check the application logs for any error messages
 - Make sure PDFs are properly processed in the Knowledge Base folder
+
+  ![Example Usage :](https://github.com/user-attachments/assets/0ae08163-e9d4-42b5-b0c8-7f2aedd2ebce)
+
